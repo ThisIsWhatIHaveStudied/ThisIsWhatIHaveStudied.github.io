@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ThisIsWhatIHaveStudied.github.io</id>
+    <title>This Is What I Have Studied</title>
+    <updated>2022-07-31T03:43:42.564Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ThisIsWhatIHaveStudied.github.io"/>
+    <link rel="self" href="https://ThisIsWhatIHaveStudied.github.io/atom.xml"/>
+    <subtitle>爱学不学</subtitle>
+    <logo>https://ThisIsWhatIHaveStudied.github.io/images/avatar.png</logo>
+    <icon>https://ThisIsWhatIHaveStudied.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, This Is What I Have Studied</rights>
+    <entry>
+        <title type="html"><![CDATA[Small Talk on US Job Vacancies]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/small-talk-on-us-job-vacancies/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/small-talk-on-us-job-vacancies/">
+        </link>
+        <updated>2022-07-29T16:28:55.000Z</updated>
+        <content type="html"><![CDATA[<p><em>July 30, 2022</em></p>
+<p>Yesterday when I was reading the the transcript of Chairman Powell's speech, one aspect which he often mentioned suddenly caught my interest. He talked a lot about current tight employment market where job vacancies and unemployment reflect extremely strong aggregate demand (also, as Total Hires shows); and this seems to be one of the underlying support for this pseudo-dovish 75bp hike.</p>
+<p>From my perspective, the story of employment consists of solely demand and supply, which can be further decomposed into 1) how many people are seeking work opportunities, 2) how many positions are waiting to be filled, and 3) how much friction is there causing mismatch, which leaves me a lot space to guess. As Fig 1 shows, in US (where relevant data are more accessible, that is why I take a glance at it) total hires usually overweighs separations in recent 10 years until COVID (2020, when people were fleeing from their position), and after that the gap has even widened——more job vacancies are waiting to be filled (see in Fig 2).</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1659112166856.png" alt="" loading="lazy"></figure>
+<center>Fig 1: Total Non-Farm Hires and Separations, FRED</center>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1659112178010.png" alt="" loading="lazy"></figure>
+<center>Fig 2: Total Unfilled Job Vacancies for the United States</center>
+<br>
+<p>It is for sure that labor demand is greater than the supply——then to which extent can the mismatch come into play? As Fig 3 indicates that currently vacancies even outpaced the number of those unemployed, it must be plausible to stay at home without job given millions of opportunities (which maybe not attractive) to seize. People are &quot;well prepared to be&quot; unemployed under this circumstance.</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1659112187517.png" alt="" loading="lazy"></figure>
+<center>Fig 3: Unemployment Level v.s. Job Vacancies, FRED</center>
+<br>
+<p>And the composition of total separation can further support the idea above: <em>Layoffs</em>, which occupies red area, has been eroded by <em>Quits</em> a lot since 2020. In other words, workers are leaving at their own will, and do not come back to fill past and new vacancies. Though companies, boasting their good EPS, are creating endless new positions, the response from modern slaves seems rather cold——roughly there are 1.9 jobs for each work to take.</p>
+<figure data-type="image" tabindex="4"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1659112195700.png" alt="" loading="lazy"></figure>
+<center>Fig 4: The Composition of Total Separations</center>
+<br>
+<p>One research (to which I cannot get access now) mentions that although the market is tight, the growth of wage in potential job changes is very limited compared with intimidating inflation. So one scenario, saying workers are facing only the same or lower level positions than before, is quite convincing, given firms may willing to cover the rising cost in the first phase. As a result, those wage and salary works would rather stay at home, living on COVID cash subsidies and having fun.:happy: Personal saving rate used to peak during COVID and now are falling sharply with debt under recover (as Fig 5 shows).</p>
+<figure data-type="image" tabindex="5"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1659112211777.png" alt="" loading="lazy"></figure>
+<center>Fig 5: Falling Savings and Rising Debt, FRED</center>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes - Basic Glossary and Concepts About REPE (Updating)]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/notes-basic-glossary-and-concepts-about-repe-updating/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/notes-basic-glossary-and-concepts-about-repe-updating/">
+        </link>
+        <updated>2022-07-14T00:58:15.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>Absorption⭐</p>
+<ul>
+<li><strong>Absorption</strong> is the amount of space or units occupied within a market over a given period of time, typically one year.</li>
+<li><strong>Gross absorption</strong> = Total amount of space that tenants in a specific geographic area physically moved into during a specific period</li>
+<li><strong>Net absorption</strong> = Total amount of space that tenants physically moved into – Total amount of space that tenants physically moved out</li>
+</ul>
+</li>
+<li>
+<p>Gross Asset Value (GAV)</p>
+<ul>
+<li>The <strong>Gross Asset Value (GAV)</strong> is the sum of value of property a company owns.</li>
+<li>Besides the net asset value, the GAV is a common KPI for <strong>property funds</strong> to measure the success of the fund manager.</li>
+</ul>
+</li>
+<li>
+<p>Net Asset Value (NAV)</p>
+<ul>
+<li><strong>Net asset value (NAV)</strong> is the value of an entity's assets minus the value of its liabilities.</li>
+<li>NAV is one of the valuation indices of <strong>real estate investment trusts</strong> (REITs, pronounced &quot;Reets&quot;).</li>
+</ul>
+</li>
+<li>
+<p>Loan-to-value Ratio (LTV)⭐</p>
+<ul>
+<li>The <strong>loan-to-value (LTV) ratio</strong> is a financial term used by lenders to express the ratio of a loan to the value of an asset purchased. It is <strong>one of the key risk factors</strong> that lenders assess when qualifying borrowers for a mortgage.</li>
+<li>In Real estate, the term is commonly used by banks and building societies to represent the ratio of the first mortgage line as a percentage of the total appraised value of real property.
+<ul>
+<li>The difference between loan value and asset value is called the &quot;haircut&quot; for the lender</li>
+</ul>
+</li>
+<li>The higher the LTV ratio, the <strong>riskier</strong> the loan is for a lender.</li>
+</ul>
+</li>
+<li>
+<p>Gross Building Area (GBA)</p>
+<ul>
+<li>Gross Building Area includes the <strong>total enclosed area</strong> of a building and the <strong>sum total of all floors</strong>.</li>
+<li>This is determined by the slab area measured to the <strong>exterior surface of the exterior walls</strong>, excluding elevator shaft openings.
+<ul>
+<li>GBA is typically used as a measurement of <strong>office, industrial and agricultural buildings</strong>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Gross Living Area (GLA)</p>
+<ul>
+<li>Gross Living Area is defined as the &quot;Total area of finished, above-grade <strong>residential</strong> space&quot;</li>
+<li>It is calculated by measuring the outside perimeter of the structure and includes only finished, habitable, above-grade living space.</li>
+</ul>
+</li>
+<li>
+<p>Net Initial Yield (NIY)</p>
+<ul>
+<li>It is defined as the passing rent or <strong>net operating income</strong> divided by the <strong>gross property value</strong> including notional acquisition costs.</li>
+</ul>
+</li>
+<li>
+<p>Yield on Cost (YOC)⭐</p>
+<ul>
+<li>Yield on cost is calculated as a property’s <strong>stabilized Net Operating Income</strong> (NOI) divided by the <strong>total project cost</strong>.</li>
+<li>It is a real estate financial metric that helps investors quantify the risk taken to purchase an asset. It is useful for two reasons
+<ul>
+<li>It provides a way to compare the potential return on a value-add investment versus less risky alternatives.</li>
+<li>It is an easy, back-of-the-envelope way to calculate expected commercial real estate returns. As such, it can be a quick way to filter out deals that don’t meet our return criteria.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Capitalization Rate (Cap Rate)⭐</p>
+<ul>
+<li>Cap rate is generally calculated as the ratio between the <strong>annual rental income</strong> produced by a real estate asset to its <strong>current market value</strong>.</li>
+<li>It is used for the valuation of commercial properties.</li>
+<li><strong>Entry cap rate</strong>, <strong>going-in cap rate</strong>, and <strong>terminal cap rate</strong>
+<ul>
+<li>The entry cap rate is simply the cap rate at the time of purchase.</li>
+<li>The going-in cap rate is the projected first-year NOI divided by the initial investment or purchase price.</li>
+<li>The terminal capitalization rate is the <strong>projected NOI</strong> of the last year (exit year) divided by the <strong>sale price</strong>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Average Daily Rate (ADR)</p>
+<ul>
+<li>The average daily rate (ADR) measures the average rental revenue earned for an occupied room per day.</li>
+<li>ADR = Rooms Revenue Earned / Number of Rooms Sold</li>
+<li>Multiplying the ADR by the <strong>occupancy rate</strong> equals the <strong>revenue per available room</strong>.</li>
+<li>The operating performance of a <strong>hotel or other lodging business</strong> can be determined by using the ADR.</li>
+</ul>
+</li>
+<li>
+<p>The investment spread between <strong>cap rate</strong> and <strong>yield on cost</strong>⭐</p>
+<ul>
+<li>
+<p>As mentioned above, cap rate is defined as NOI / Current Mkt Value</p>
+</li>
+<li>
+<p>While yield on cost is defined as NOI / Total Project Cost</p>
+</li>
+<li>
+<p>Thus, when there is spread between cap rate and yield on cost (cap rate &lt; YOC), it indicates that current mkt value is greater than initial project cost, reflecting the value added.</p>
+</li>
+<li>
+<p>For example, the information below regarding the spread is used to analyze <strong>value-added investment</strong></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Strategies of Commercial Real Estate Investment⭐</p>
+<ul>
+<li>
+<p>Core</p>
+<ul>
+<li>Core real estate refers to stabilized property in a major metropolitan statistical area (MSA).</li>
+<li>&quot;Stabilized&quot; means &quot;(almost) <strong>fully rented, with long-term leases, to tenants with good credit</strong>&quot;.</li>
+<li>It usually includes &quot;<strong>Class A</strong>&quot; buildings, and Class B without efforts to maintain.</li>
+<li>Core assets are considered &quot;<strong>low-risk</strong>&quot;. They produce <strong>stable, predictable cashflow</strong>; they may not realize substantial appreciation, but there is minimal downside risk.</li>
+<li>Core investors may de-risk the investment even more by taking a “<strong>low-leverage</strong>” approach, financing the property with as little as 25% loan-to-value (LTV).</li>
+<li>It usually serves as a <strong>hedge</strong> against volatility and inflation.</li>
+</ul>
+</li>
+<li>
+<p>Core Plus</p>
+<ul>
+<li>It is similar to core real estate, but with a little more risk factored in.</li>
+<li>The property may be older and more maintenance intensive. It may be in a suburb or secondary market. The tenants may be lower-credit and less reliable.</li>
+<li>The property may be financed at 50% LTV or higher.</li>
+<li>It entails more risk than &quot;Core&quot;, but still relatively low to moderate.</li>
+<li>Core plus properties will take on losses in a down market before core real estate will.</li>
+</ul>
+</li>
+<li>
+<p>Value-Add</p>
+<ul>
+<li>
+<p>Value-add real estate is operating below its potential, representing <strong>an opportunity to increase the property’s value.</strong></p>
+</li>
+<li>
+<p>Its risk profile is proportionally higher than the risk profile of core or core-plus opportunities.</p>
+</li>
+<li>
+<p>Value-add opportunities may need <strong>significant repairs</strong>. They may be leased passively to maintain <strong>occupancy</strong>, or they may be filled with <strong>low-credit tenants</strong>. The tenants may be paying <strong>below-market rents</strong>.</p>
+<ul>
+<li>With targeted <strong>upgrades and improved management</strong>, the property may attract a <strong>better-quality tenant</strong> and command <strong>higher rental rates</strong>. Tenants may be willing to pay extra fees for added perks and amenities.</li>
+<li>There may be opportunities to <strong>reduce expenses</strong> as well — reducing utility and administrative costs, seeking property tax incentives or reassessments, or investing in technology to improve efficiency.</li>
+</ul>
+</li>
+<li>
+<p><strong>Increasing income and reducing costs</strong> increase the property’s <strong>net operating income (NOI)</strong>, which has the dual effect of increasing cash flow and the property’s value.</p>
+</li>
+<li>
+<p>Adding value to commercial property often requires <strong>significant cash upfront</strong>. Investors often leverage value-add real estate as much as 80% loan-to-value.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Opportunistic</p>
+<ul>
+<li>This strategy is similar to the value-add strategy, but the target property may be in even worse shape.</li>
+<li>It may be completely <strong>vacant</strong>. Core systems like plumbing or electricity may <strong>need to be overhauled or replaced</strong> to make the property habitable. It may be a <strong>tear-down</strong> or a <strong>new development</strong> property.</li>
+<li>Opportunistic property can be acquired for prices well below their core asset counterparts, but <strong>significantly more money and leverage</strong> are usually needed to complete the project.</li>
+<li><strong>Timing</strong> plays the greatest role in an opportunistic strategy. It can take months or even years to execute the kind of rehab or repositioning needed for an opportunistic investment. The investor needs to consider today's market conditions and market conditions months or years from now.<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657760369743.png" alt="" loading="lazy"></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="reference">Reference</h2>
+<ol>
+<li>“How Is Net Absorption Calculated?” <em>Jll.Com</em>, 1 Nov. 2017, https://www.us.jll.com/en/trends-and-insights/cities/how-is-net-absorption-calculated.</li>
+<li>“Gross Asset Value.” <em>Wikipedia, The Free Encyclopedia</em>, 12 June 2022, https://en.wikipedia.org/w/index.php?title=Gross_asset_value&amp;oldid=1092800413.</li>
+<li>“Net Asset Value.” <em>Wikipedia, The Free Encyclopedia</em>, 19 Apr. 2022, https://en.wikipedia.org/w/index.php?title=Net_asset_value&amp;oldid=1083621393.</li>
+<li>“Loan-to-Value Ratio.” Wikipedia, The Free Encyclopedia, 1 May 2022, https://en.wikipedia.org/w/index.php?title=Loan-to-value_ratio&amp;oldid=1085657523.</li>
+<li>“What Does GBA Mean in Commercial Real Estate?” <em>Commercial Real Estate Blog in Dubai, UAE | CRC</em>, Commercial Real Estate Consultants, 25 Oct. 2021, https://www.crcproperty.com/blog/what-does-gba-mean-in-commercial-real-estate/.</li>
+<li>“Net Initial Yield Definition.” <em>Law Insider</em>, https://www.lawinsider.com/dictionary/net-initial-yield.</li>
+<li>“What Is the Yield on Cost in Commercial Real Estate?” First National Realty Partners, 17 Mar. 2021, https://fnrpusa.com/blog/yield-on-cost/.</li>
+<li>“Capitalization Rate.” <em>Wikipedia, The Free Encyclopedia</em>, 4 Mar. 2022, https://en.wikipedia.org/w/index.php?title=Capitalization_rate&amp;oldid=1075124475.</li>
+<li>Burton, Spencer. “Analyzing Value-Add Investments in Real Estate Using Yield-on-Cost.” <em>Adventures in CRE</em>, Adventures in CRE (A.CRE), 25 Aug. 2020, https://www.adventuresincre.com/value-add-yield-on-cost-real-estate-analysis/.</li>
+<li>“Balancing Risk and Return: Differences between Core, Value-Add, and Opportunistic Real Estate Investing Strategies.” <em>Commercial Real Estate Investment Platform | Jamestown Invest</em>, 4 June 2021, https://www.jamestowninvest.com/real-estate-360/balancing-risk-and-return/.</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricks on Economic Surveys - Is it a Coincidence?]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/tricks-on-economic-surveys-is-it-a-coincidence/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/tricks-on-economic-surveys-is-it-a-coincidence/">
+        </link>
+        <updated>2022-07-08T02:17:50.000Z</updated>
+        <content type="html"><![CDATA[<p>It is quite common and inevitable for news media to spread untrue views on economic indicators; however, we do not necessarily have to incorporate their false into our decision-making process. I find a lot of surveys conducted by authorities may not be that good as they sound. Here is an example from Xinhua Net, which posted a good economic survey but with bad interpretation and presentation.</p>
+<h2 id="example-cpri-index">Example - CPRI Index</h2>
+<h3 id="question-regarding-the-index-itself">Question Regarding The Index Itself</h3>
+<p>Thanks to Xinhua Net, here we  got our first victim<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>, China retail prosperity index (中国零售业景气指数). To begin with, I'd better clarify that this is a measure for individual consumers rather than companies.</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246699726.jpg" alt="" loading="lazy"></figure>
+<center>Source: Xinhua Net</center>
+<p>As the report points out, this indicator grew above 50% because &quot;government policies took effect&quot;. Let alone the causation, this indicator is apparently <strong>an leading indicator like Purchasing Manager Index</strong> (PMI), showing the expectation for the near future. Although it is quite arduous to figure out how this survey was compiled and conducted, from another source<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> I got the answer (see below): it is a weighted average index.</p>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246735510.jpg" alt="" loading="lazy"></figure>
+<center>Source: iFeng, DeepL</center>
+<p>Basically, this index consists of three business components: merchandise (50.5%, rose 0.7%), leasing (52.4%, rose 2.6%), and e-commerce (47.5%, fell 2.0%). By calculating the simple arithmetic mean, the number turns out to be 50.13%, proving that the weight for goods and leasing must be (slightly) higher than that for e-commerce, like one possible solution below (using Excel Solver), which is absolutely unreal but just for simulation purpose.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Individual Index</th>
+<th>Weight</th>
+<th>Composite Index</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Goods</td>
+<td>50.5</td>
+<td>15.13%</td>
+<td></td>
+</tr>
+<tr>
+<td>Leasing</td>
+<td>52.4</td>
+<td>45.84%</td>
+<td>50.2</td>
+</tr>
+<tr>
+<td>E-Commerce</td>
+<td>47.5</td>
+<td>39.03%</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<center>A Simple Demonstration Using Excel Solver</center>
+<p>I feel the number quite doubtful considering the prosperity e-commerce used to be. As the chart below shows, e-commerce sales accounted for 44.8% in 2020<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>, and should be higher for now as recent wave of COVID forced many bricks-and-mortar stores to close temporarily. In this sense, the parameter for e-commerce is very likely underestimated.</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246819511.png" alt="" loading="lazy"></figure>
+<center>Source: Insider Intellegence</center>
+<p>Additionally, leasing, as an existing large contributor, did saw a significant rise. Such a business model here may mean &quot;a company purchases a product and then leases it to a customer for a periodic fee&quot;. I can't help but ask: If I am able to purchase non-durable goods, why should I rent them instead?&quot; The logic for this thriving leasing business is apparently not this one.</p>
+<p>And you may wonder if it truly refers to the rise in retail space occupancy or rental rates --- I believe that's a more plausible hypothesis even without further evidence. But <strong>it is still questionable whether the rising cost were fully passed to consumers or not, or where did the business get so-called &quot;prosperity&quot; without cutting cost</strong>.</p>
+<h3 id="its-causation-seems-unsound">Its Causation Seems Unsound</h3>
+<p>As Zhang Lijun mentioned, CPRI index rose thanks to policies which took effect. Let's see what has taken place in June and May<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup><sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup><sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>.</p>
+<p>Firstly, strict Covid-19 control measures still darkened the economy. It basically ruled out the possibility of operating business without unforeseeable disruptions.</p>
+<figure data-type="image" tabindex="4"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246852399.jpg" alt="" loading="lazy"></figure>
+<center>Source: South China Morning Post</center>
+<p>Furthermore, supportive policies were mostly targeted at firms. <strong>It would be questionable whether additional benefit could be passed onto individual employees during this hard time.</strong> It is good to support firms in case of high unemployment (though undergoing), but that is only an floor which guarantees basic needs, not incentivizing extra consumption.</p>
+<figure data-type="image" tabindex="5"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246920177.jpg" alt="" loading="lazy"></figure>
+<center>Source: The State Council of the People's Republic of China</center>
+<p>And nominal increase in retail sales does not necessarily indicate real betterment. To summarize, it is true that although sales number peaked (Retail Sale is a <strong>leading</strong> indicator), but as some scholar noted (see below), this is because of rising cost, not urging demand. With some authorities sticking to Zero-COVID routine, disruption to business activities would inevitably continue to occur even though there are some other authorities trying to save the SME --- these contradictions did took place.</p>
+<figure data-type="image" tabindex="6"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246984697.jpg" alt="" loading="lazy"></figure>
+<center>Source: Renmin University of China, DeepL</center>
+<p>I do believe that retail confidence is under recovery, but not for previous policies which, instead, hindered the economy, but for the growing expectation that China would not get worse and would lift some restrictive rules which previously harmed the business environment. And frankly speaking, the outlook of e-commerce is rather mournful considering the index fell below 50 (it might get worse if logistics and delivery service still get halted when new wave of COVID bursts). <strong>We, Chinese, are always optimistic towards the future while acting especially prudently in hard times</strong> — Cannot judge whether it is good or not, but that should be the correct reason.</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>“China Retail Prosperity Index Rebounds in July.” <em>News.Cn</em>, https://english.news.cn/20220706/7ad37f8ba14247758c9b2b9f00c42525/c.html. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>“中国商业联合会发布中国零售业景气指数CRPI.” <em>Ifeng.com</em>, https://finance.ifeng.com/c/8HR5W2kBEV9. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>Cramer-Flood, Ethan. “China Ecommerce Forecast 2021.” <em>Insider Intelligence</em>, 9 July 2021, https://www.emarketer.com/content/china-ecommerce-forecast-2021. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>Pinghui, Zhuang. “China to Stick with Zero-Covid Policy, but the Rules May Be ‘Refined’, Premier Says.” <em>South China Morning Post</em>, 5 Mar. 2022, https://www.scmp.com/news/china/politics/article/3169390/china-stick-zero-covid-policy-rules-may-be-refined-premier-says. <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>“于泽：理性看待6月份社会消费品零售总额高增速 -中国人民大学国家发展与战略研究院.” <em>Ruc.Edu.Cn</em>, http://nads.ruc.edu.cn/xzgd/1a8e671079854a2aa887cc969422948a.htm. <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>“China Announces Policies to Relieve Epidemic Pressures on Industries, Unemployed.” <em>Gov.Cn</em>, https://english.www.gov.cn/news/pressbriefings/202205/13/content_WS627dcad0c6d02e533532aa55.html. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[偶然遇到一个傻瓜式搜索引擎 API]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/ou-ran-yu-dao-yi-ge-sha-gua-shi-sou-suo-yin-qing-api/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/ou-ran-yu-dao-yi-ge-sha-gua-shi-sou-suo-yin-qing-api/">
+        </link>
+        <updated>2022-07-05T06:33:12.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="莫名其妙">莫名其妙</h2>
+<p>事情的原委是这样的：严学姐的老板希望能获取全网所有含有某一关键词的文章，Then 这个人 turned to me for help。俺一来日久不敲代码已然技能十分生疏，二来不希望将时间浪费到重复的造轮子活动中<s>三来在办公室敲代码太危险了</s>。机缘巧合间发现了一款免费搜索引擎 API: <a href="https://serpapi.com/">SerpApi</a>，也算是为我免除了不少体力活动。</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657002817838.jpg" alt="" loading="lazy"></figure>
+<center>来源：https://serpapi.com/</center>
+<h2 id="使用方法">使用方法</h2>
+<p>废话不多说，直接上例子。所需的 Package 如下：</p>
+<pre><code class="language-python"># Setup
+import requests # Just in case I wanna crawl each page
+import pandas as pd
+from bs4 import BeautifulSoup
+from serpapi import GoogleSearch # Key Package
+from serpapi import BaiduSearch
+</code></pre>
+<p>下载 serpapi 的方法是：在 Anaconda Console （或者 CMD）中键入：</p>
+<pre><code class="language-python">pip install google-search-results
+</code></pre>
+<p>在官网注册账号之后，可获得一个免费 API（每月100次）：</p>
+<pre><code class="language-python">api_key = &quot;ad9xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe1413&quot;
+</code></pre>
+<p>接下来只需设定好 Parameters：</p>
+<p><strong>Google</strong></p>
+<pre><code class="language-python"># Setup with google search
+params = {
+  &quot;engine&quot;: &quot;google&quot;,
+  &quot;q&quot;: &quot;青年律师如何寻找案源&quot;, # Keyword
+  &quot;num&quot;: 50,   
+  &quot;api_key&quot;: api_key
+}
+</code></pre>
+<p><strong>Baidu</strong></p>
+<pre><code class="language-python"># Baidu Search
+params = {
+  &quot;engine&quot;: &quot;baidu&quot;,
+  &quot;q&quot;: &quot;青年律师如何寻找案源&quot;, 
+  &quot;rn&quot;: 50,  # The only adjustment made is the name of &quot;num_of_page&quot;
+  &quot;api_key&quot;: api_key
+}
+</code></pre>
+<p>然后所需的便只是借助 API 发送 Get 请求，不需要自己设定 Headers 等：</p>
+<p><strong>Google</strong></p>
+<pre><code class="language-python">GSearch = GoogleSearch(params) # Search via api
+GResults = GSearch.get_dict() # Get raw results
+GOrganic_results = GResults[&quot;organic_results&quot;] # Prettify the structure
+</code></pre>
+<pre><code class="language-python">GoogleSeachResultsDic = {}
+for each in GOrganic_results:
+    title = each['title']
+    url = each['link']
+    GoogleSeachResultsDic[title] = url # Make it a dictionary
+</code></pre>
+<p><strong>Baidu</strong></p>
+<pre><code class="language-python">BSearch = BaiduSearch(params)
+BResults = BSearch.get_dict()
+BOrganic_results = BResults[&quot;organic_results&quot;]
+</code></pre>
+<pre><code class="language-python">BaiduSearchResultsDic = {}
+for each in BOrganic_results:
+    title = each['title']
+    url = each['link']
+    BaiduSearchResultsDic[title] = url
+</code></pre>
+<p>然后将结果整合到一个 Excel 中输出即可</p>
+<pre><code class="language-python">SearchResultsDic = GoogleSeachResultsDic | BaiduSearchResultsDic
+</code></pre>
+<pre><code class="language-python"># Export to an excel file
+ExportDF = pd.DataFrame(data=SearchResultsDic, index=[0])
+ExportDF = ExportDF.T
+ExportDF.to_excel('Title and Links.xlsx')
+</code></pre>
+<p>结果如下图所示<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657002845434.jpg" alt="" loading="lazy"></p>
+<p>以上只是一个简单的小例子，此外官网亦有许多范例可以参考~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多国开启加息周期的潜在影响]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/duo-guo-kai-qi-jia-xi-zhou-qi-de-qian-zai-ying-xiang/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/duo-guo-kai-qi-jia-xi-zhou-qi-de-qian-zai-ying-xiang/">
+        </link>
+        <updated>2022-06-14T05:20:45.000Z</updated>
+        <content type="html"><![CDATA[<p>概要</p>
+<ol>
+<li><strong>加息与通货膨胀的核心原因</strong>：后疫情时代供应链扰动、经济复苏、叠加复工率低，助推成本与需求的双重物价上涨；加息将起到压制需求的作用，进而从需求端控制通货膨胀。</li>
+<li><strong>加息对经济体的影响</strong>：加息控制了信贷规模水平，由此压制过度的投资与消费、减少产能，并降低社会名义总收入、从而进一步压缩了申请的信贷空间；这是一个自我强化的链式循环，直至物价水平回归目标时中央银行才会以宽松的政策阻止。</li>
+<li><strong>加息对地产市场的影响</strong>：通胀、经济复苏的动力以及加息引发的主流资产贬值均保证了地产资产在短期内下行压力较小；但长期来看过度加息蕴含的经济衰退、以及后疫情时代需求的消减，均可能为地产下行的风险来源。</li>
+</ol>
+<h2 id="加息的国家与地区">加息的国家与地区</h2>
+<p>2022年6月9日，欧洲央行表态将在7月1日前尽快结束资产购买计划（APP），将关键利率（Key ECB Interest Rate）提升25bps，并不排除在9月后继续抬高利率。在此之前（截至2022年6月8日），本年度已经做出加息决议的国家包括：</p>
+<ul>
+<li>巴西：5月4日，连续10次加息，基本利率调为12.75%；</li>
+<li>美联储：5月4日，加息 50bp ，将利率目标区间上调到0.75%至1%之间；</li>
+<li>印度：5月4日，提高 40bp 至4.4%；</li>
+<li>英国：5月5日，提高 25bp 至1%；</li>
+<li>加拿大：6月1日，提高 50bp 至1.5%；</li>
+<li>澳洲：6月7日，提高 50bp 至0.85%。</li>
+</ul>
+<p>由此可见，全球主要的经济体（除中国与日本外）均已进入加息周期。</p>
+<h2 id="加息的原因-内涵-作用机理以及直接影响">加息的原因、内涵、作用机理以及直接影响</h2>
+<h3 id="原因">原因</h3>
+<p>截至2022年6月，世界各个主要经济体的通货膨胀大多已攀升至较高水平，其中的核心原因如下：</p>
+<ol>
+<li>2021年至2022年春季，能源价格的大幅上涨与供应链瓶颈两项因素推动了生产成本的快速上升，再叠加22年春季俄乌战争，促成了成本推动型通胀；</li>
+<li>后新冠时代工人的健康意识较高，劳动参与率没有充分回复，劳动力供不应求，间接推动了生产成本上升；</li>
+<li>近期各国逐渐走出新冠疫情的阴霾，经济恢复强劲、总需求提升，客观上推动了社会物价水平的整体上行——需求推动型的通胀也是央行货币政策的着力点。</li>
+</ol>
+<p><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1655184339657.png" alt="" loading="lazy"><br>
+<em>图一：当下通胀的核心逻辑（参考来源：Bank of Japan）</em></p>
+<p>如下图所示，截至2022年6月14日，世界上主要国家的通货膨胀率（年化）均已达到较高水平，这意味着对应经济体中物价的普遍上涨幅度颇高，若工资水平难以跟上其步伐，则人民的购买力必然遭受价格变动的侵蚀。因此各国央行加息势在必行。简言之，加息提高了借贷成本、间接抑制了投资与消费，从而能在需求端对通货膨胀有所控制。<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1655184371236.png" alt="" loading="lazy"><br>
+<em>图二：世界各主要经济体的各项经济指标（来源：Trading Economics，2022年6月14日）</em></p>
+<h3 id="内涵">内涵</h3>
+<p>根据凯恩斯的预期理论（Expectation-based Theory），现代的中央银行所完全控制的只是<strong>短期利率</strong>，而长期利率则体现为市场对未来短期利率的预期——而这种预期正是基于中央银行的一举一动一言一行而作出的。因此，当各国中央银行纷纷表态加息或将在未来的某一天开启加息，影响的不只是当下的市场中的短期借贷成本，亦会对长贷成本有所作用。在此基础上，中央银行需要审慎使用合适的货币政策工具以求在掌控短期的同时为市场创造合理的未来预期。中央银行通常使用的货币政策工具主要包括：</p>
+<ol>
+<li>存款准备金率（较少使用）：提高/降低<em>隔夜</em>存款准备金率会使商业银行的可用存款下降/上升，进而减少/增加商业银行新创造的贷款；</li>
+<li>公开市场操作（最主要）：从/向商业银行买入/卖出有价证券（主要是利率债），进而释放/回收资金、增加/减少商业银行新创造的贷款；</li>
+<li>贴现率（较少使用）：中央银行提高/降低对商业银行票据的贴现率，减少/增加商业银行从票据贴现中获得的金额，进而减少/增加新创造的贷款；</li>
+<li>超额储备金利率：超额储备金指商业银行在中央银行存款准备金要求外额外存储的资金；当中央银行提高/降低超额存款储备金率时，商业银行有动力向/从其存储/提取资金，进而减少/增加了新创造的贷款。</li>
+</ol>
+<p>加息意指中央银行通过运用不同货币政策工具间接增加实际借贷成本。以2022年5月美联储的加息为例，其实施细节如下：</p>
+<blockquote>
+<p>2022年5月4日美联储关于货币政策实施的决议（Decisions Regarding Monetary Policy Implementation）</p>
+<ul>
+<li>联邦储备系统理事会一致投票决定将**（超额）储备金利率**提高至0.9%，自2022年5月5日起生效。</li>
+<li>除此之外，联邦公开市场委员会需要自2022年5月5日起向公开市场服务台（Open Market Desk）做出如下指示：
+<ul>
+<li>执行必要的<strong>公开市场操作</strong>以将<strong>联邦基金利率</strong>（一种同业市场隔夜拆借利率）维持在0.75%至1%的区间内；</li>
+<li>执行<strong>隔夜逆回购</strong>操作，其中最低投标利率为1.0%，总操作限额为5000亿美元；</li>
+<li>开展隔夜逆回购协议业务，其发行利率定为0.8%，每个交易方每天的限额为1600亿美元；</li>
+<li>... ...</li>
+</ul>
+</li>
+<li>最后，联邦储备系统理事会一致投票批准将主要信贷利率（primary credit rate）提高1/2个百分点至1%，自2022年5月5日起生效。</li>
+</ul>
+</blockquote>
+<p>其中，<strong>联邦基金利率</strong>（Federal Funds Rate）的变动便是广大媒体表述中的&quot;利率变动&quot;。由于该利率是在银行同业拆借市场中实际使用的，故而为美联储的目标利率（Target Rate）；而美联储通过公开市场操作（从/向金融机构买入或卖出政府债券）改变市场中可供借贷的资金总量以影响联邦基金利率。从下图可以看出，联邦基金利率的调整往往是滞后于通货膨胀、同时与失业率呈现反向联系。<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1655184401512.jpg" alt="" loading="lazy"><br>
+<em>图三：历史上联邦基金利率、通货膨胀率、与失业率的关系（来源：Principle of Economics）</em></p>
+<p>由此可见，“加息”二字意味的绝不仅仅是简单的修改政策利率的数字，还伴随着多种货币政策工具加持以辅助引导市场。</p>
+<p>除了加息之外，“缩表”是另外一种冷却经济的方式。简言之，缩表意味着停止对长期国债的购买并抛出，在回收长期流动性的同时抬高到期收益率，其效果接近于加息：根据美联储官员的一项<a href="https://www.federalreserve.gov/econres/notes/feds-notes/substitutability-between-balance-sheet-reductions-and-policy-rate-hikes-some-illustrations-20220603.htm">研究</a>，在其他条件不变的情况下，<strong>若美联储一次性且永久地削减等同于占名义GDP 1%的10年期美债持有量，会使10年期美债的期限溢价（Term Premium）提高约10个基点</strong>。有鉴于此，后文中对加息作用机理及其影响的论述亦可<em>粗略</em>与缩表共通。</p>
+<h3 id="作用机理及其对经济体的影响">作用机理及其对经济体的影响</h3>
+<p>资产价格与经济体的冷热程度因货币政策的改变而受到影响——这种改变旨在影响社会总需求、借贷成本、以及货币与信用货币的总量，进而作用域经济体的整体表现。货币政策对经济的影响大体如下图所示：<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1655184457546.png" alt="" loading="lazy"><br>
+<em>图四：目标利率的传导机制（参考来源：Reserve Bank of Australia）</em></p>
+<p>就加息具体而言，以此前提到的美联储为例</p>
+<ol>
+<li>首先通过执行<strong>公开市场操作</strong>向金融机构卖出政府债券、回收可用资金，以提高<strong>联邦基金利率</strong>（目标利率），进而提高了<strong>金融机构间隔夜贷款</strong>的利率；</li>
+<li>金融机构间获取资金的成本上升后，便会进一步将负担分摊至其资金下游的客户，使其他企业与个人的融资成本上升；</li>
+<li>攀升的融资成本落实到企业与个人后浇熄了其借贷的热情、增加了其还款压力、并压制了其投资（包括人力投资）与消费的需求——进而引发其上游供应商销售放缓、产能收缩；</li>
+<li>缩水的收入又限制生产商了获取信贷支持的能力、对信贷的需求进一步下滑，同理压制了其消费与投资；</li>
+<li>几经传导后，当社会中的货币与信贷总量（M2）收缩到一定程度时，由于实物总产出变化有限，本国商品平均物价的增长下降；</li>
+<li>此外，本国融资成本的提升也意味着收益率的提升，致使本国货币相较于外币升值、降低了进口成本，从而压低了进口商品的平均物价的增长；</li>
+<li>最终，社会整体物价水平的增长放缓，实现抑制通货膨胀的目的。</li>
+</ol>
+<p>由此可见，加息带来的连锁反应体现为自下游向上游传导并不断强化的链、旨在控制社会总体信贷规模从而实现压低平均物价增长率的目的。</p>
+<h2 id="加息对地产市场的影响">加息对地产市场的影响</h2>
+<p>疫情已至尾声，且地缘冲突对供应链扰动显著，当下全球主要经济体正处于物价普遍上涨螺旋中。为了压制消费与投资的需求，各国央行纷纷开启加息周期、提高融资成本，进而控制社会中的货币与信用总量、起到控制物价上升的作用。因此，（较高的）通胀与加息具有紧密的联系、需要将二者结合讨论。</p>
+<h3 id="供需与资产价格">供需与资产价格</h3>
+<p>对于物业供给方而言，短期内较高的通胀水平意味着工人工资、原材料价格、以及其他各项成本的上涨，本已抑制了开发商建设新项目的能力；而出于抑制通胀而出台的加息举措则进一步降低了新兴融资的需求。故此在短期内物业资产的供给将保持刚性。</p>
+<p>对于物业需求者而言，由于其收入来源往往是多渠道的，普遍上涨的物价经多次传导后乘数般地放大了其现金流、并使其袋中的其他资产增值，因此短期内其融资能力得以增强、拥有更旺盛的购入资产的意愿。加息由于不能在短期内对物价有所抑制，而融资成本的上浮对物业需求者的效用影响有限，故此在短期内物业资产的需求将得以提振。此外，在其他主流资产中上行的到期收益率无疑对其估值造成了损害，越来越多的资金将流向具有天然抗通胀属性的物业资产，故而其需求也将受益于此。</p>
+<p>综上，短期内供给保持刚性的前提下需求提升，物业价格将有所上涨。</p>
+<p>由于加息对成本推动型的通胀的抑制作用有限、以及（美联储）加息依旧存在较大空间，资产价格的长期表现尚有待观察。</p>
+<h3 id="关于不同物业类型的讨论">关于不同物业类型的讨论</h3>
+<p><strong>公寓物业与办公物业</strong>：当前（美国）贷款利率尚未触及历史高位、居民储蓄率达历史高位、再叠加疫情期间住房建设拖后严重，加息在短期内对购房需求的抑制作用有限。长期来看由于仍有充足的加息空间，长期来看当融资成本超过购房者的容忍阈值时，购房者将会转向公寓租赁作为替代；此外由于既有短期租约的存在，高通胀蕴含的租金的上涨潜力仍未被充分释放，而加息的传导周期更长、且房贷利息上升的压力将被二次传导至租房者，因此在不远的将来（中期）办公物业与公寓物业的经营收入将得以明显提升。</p>
+<p><strong>商业物业</strong>：加息难以压制疫情期间挤压的消费需求在短期内的释放，但高通胀叠加加息在长期或将令消费缩水，届时提供生活必须品与服务的商圈将表现更好。</p>
+<p><strong>工业物业与物流物业</strong>：加息在长期将抑制社会总体消费，消费减少诱发的产能的降低或将压缩未来对工业生产空间的需求；而俄乌战争诱发的一时难以解决的供应链难题将在短期提升对库房储存空间的需求。但由于该类物业往往具有租约较长的性质，在无法立即将既有的旧租约转换为新租约的前提下，租金潜力有待未来进一步释放。</p>
+<p><strong>酒店物业</strong>：酒店物业具有灵活租约的特性，受益于疫情褪色以及高通胀环境，其现金流收入在短期内提升显著。加息在短期内对商旅消费难以形成抑制，长期影响有待观察。</p>
+<p>以上。</p>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li>&quot;The Transmission of Monetary Policy.&quot; <em>Reserve Bank of Australia</em>, https://www.rba.gov.au/education/resources/explainers/the-transmission-of-monetary-policy.html.</li>
+<li>Crawley, Edmund, et al. &quot;Substitutability between Balance Sheet Reductions and Policy Rate Hikes: Some Illustrations and a Discussion.&quot; <em>FEDS Notes</em>, no. 2022-06–03, 2022, https://doi.org10.17016/2380-7172.3147.</li>
+<li>&quot;Implementation Note Issued May 4, 2022.&quot; <em>Board of Governors of the Federal Reserve System</em>, https://www.federalreserve.gov/newsevents/pressreleases/monetary20220504a1.htm.</li>
+<li>&quot;Speech by Governor KURODA at the Kisaragi-Kai Meeting (the Bank’s Thinking on Monetary Policy: Toward Achieving the Price Stability Target in a Sustainable and Stable Manner) : 日本銀行 Bank of Japan.&quot; <em>Boj.or.Jp</em>, https://www.boj.or.jp/en/announcements/press/koen_2022/ko220606a.htm/.</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁会喜欢通货膨胀？]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/shui-hui-xi-huan-tong-huo-peng-zhang/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/shui-hui-xi-huan-tong-huo-peng-zhang/">
+        </link>
+        <updated>2022-05-13T02:35:16.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="引子">引子</h2>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409448673.jpg" alt="" loading="lazy"></figure>
+<center>娘娘，您的麻酱威化涨价了！</center>
+<br>
+<p>面对生活的苦恼人们常常无处消解，而且打人骂人是违法行为，不如简单谴责一下<em>通货膨胀</em>（Inflation）这家伙：</p>
+<blockquote>
+<p>“麻酱威化又叕叕涨价了，店老板真黑！”</p>
+<p>“也不能都怪他啦，毕竟通货膨胀太厉害了。”</p>
+</blockquote>
+<p>以上对话除了表达强烈谴责外，似乎还将通货膨胀与<em>成本上涨</em>视作等同。对此俺一时间听不出哪里有问题，只是不由得猜测：可能 1）人类的重复造词能力未免太强、抑或是 2）概念的精确程度对日常交流影响甚微。俺更倾向于后者，但“本着对真理的追寻”，不如向万能的搜索引擎请教一番。其中，欧洲中央银行（ECB）是这样定义的：</p>
+<blockquote>
+<p>In a market economy, prices for goods and services can always change. Some prices rise; some prices fall. Inflation occurs if there is a broad increase in the prices of goods and services, not just of individual items; it means, you can buy less for €1 today than you could yesterday. In other words, inflation reduces the value of the currency over time.</p>
+</blockquote>
+<p>说白了，由于商品与服务的价格广泛性（而非个体单独）上涨，全世界原本18元的<s>生活必需品</s>威化现在要卖到25元，换言之新时代1元钱的购买力仅相当于原本的18/25（以威化作为单位），可谓严重下滑。据此俺认为通货膨胀描述的是“<strong>物价普遍且持续的上涨导致货币购买力下降</strong>“这一过程，并不能简单等同于”涨价“。</p>
+<p>单件商品或单项服务涨价不外乎是因为各式各样的供不应求<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>，难道物价的广泛或普遍上涨也是因为供不应求吗？这听起来虽然过于极端<s>仿佛所有物资都在 Shanghai 的长期管控之下</s>，但显然通货膨胀作为价格上涨的体现必然出于供求关系——其中更为普适（而非商品特定）的因素起到了决定性影响。除此之外商品与服务的价格可能会在一夜之间出现较大的波动（上涨或下跌），而通货膨胀一旦出现则至少霸占财经新闻版面数月：由此可见寻常的价格上涨与通货膨胀还存在期限上的差别。</p>
+<p>由此可见，麻酱威化的涨价时谴责通货膨胀是不合时宜的、甚至是不搭边的。纵然上到新闻下至市井大家情感上无不厌恶通货膨胀，可理智上真的理解何为通货膨胀并作了合适的归因吗？以下内容将从通货膨胀的内在因素出发、由内向外地求索其来龙去脉。或许阅后你会有些喜欢”通胀“。</p>
+<h2 id="通货膨胀的内因">通货膨胀的内因</h2>
+<p>回到定义，通货膨胀是一个经济体中商品与服务价格的普遍性上涨。之所以会在同一时期出现普遍性的价格上涨，是因为在**不同商品或服务的供求关系中均存在的共同影响因素（如人力成本、能源价格、消费者收入等）**发生了变化、推动了需求增加或供给减少。据此，三藩市联邦储蓄银行（FRBSF）将通货膨胀大体分为两类：<strong>1）需求拉动型</strong>与 <strong>2）成本推动型</strong>（纵然在实际情况下二者经常是相生相伴的）。</p>
+<h3 id="需求拉动型">需求拉动型</h3>
+<p>当一个经济体对商品和服务的<strong>需求的增长比其生产能力增长更快</strong>时，就会出现需求拉动型的通货膨胀。是何种原因使得经济体整体的需求骤然提升呢？</p>
+<p>先从个人入手。试想，领到奖学金前的你在牛肉拉面窗口前都会就”加不加肉“这一问题做很久的内心斗争，领到奖学金后的你买法丽兹眼睛都不带眨一下；同理，当校长一高兴给全校学生都发奖学金，那么领钱的当天中午餐厅必然满目皆是烤鱼火锅。由此可见个体收入的提高会使其更倾向于满足需求。</p>
+<p>就经济体整体而言，是否存在一种全社会的”奖学金“呢？最近的例子可以参考 COVID-19 期间拜登政府向美国民众直接发放救济金的行为。其表面是政府斥资数万亿背负高额财政赤字用以纾困，背后则是中央银行（美联储）利用公开市场操作大量购买政府债券以支持这一计划；经济体中的货币供应量迅速上升。最终的结果便是许多美国人民的临时性收入骤然提高、对商品的消费欲望高涨<s>见啥买啥</s>。这也构成了推动美国2021年通货膨胀逐渐上行的三大因素之一<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>。</p>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409465841.jpg" alt="" loading="lazy"></figure>
+<center>需求曲线右移，供给曲线相对稳定，致使价格水平上升</center>
+<br>
+<p>然而商品的生产无法在短期内赶上需求的增长。当美国人民领到纾困金后都想吃麻酱威化时，卡夫亨氏<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>拼了老命也没办法让原材料与工人迅速就位，只能任由有钱的消费者对所剩无几的麻酱威化竞价；价高者得，所以价格必然被需求拉高。麻酱威化尚且如此，更何况<s>同样是</s>生活必须的水、主食、肉类、蔬菜等等家常百货。物价普遍性的上涨并不意外；原本平平无奇的麻酱威化被捧至高价，与之相比纾困金也显得不是很够——这也算是货币贬值的小小一隅。</p>
+<p>除了收入增长之外，能够刺激需求增长的因素还包括较低的失业率（不会被裁还不庆祝一下）与较高的储蓄率（憋了好久没花钱）等等。由此产生通胀的机理与前文大体相近，不再赘述。</p>
+<h3 id="成本推动型">成本推动型</h3>
+<p>当一个经济体中商品的生产成本普遍高昂、产量回落导致供给不足、供需错配时，就会出现成本推动型的通货膨胀。不妨再回到 COVID-19 流行期间的美国：出于对新病毒的天然恐惧感而无论其实际影响如何，许多美国打工人宁可辞职也不愿返回工作岗位，致使公司要花费高昂的代价去争抢市场中有限的劳动力；在进入共产主义社会之前几乎所有商品的生产都需要人力的参与（哪怕只是监督），用工成本的增加无疑会提高相应的商品出售价格。</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409477775.png" alt="" loading="lazy"></figure>
+<center>图片来源：彼得森国际经济研究所（PIIE）</center>
+<br>
+<p>此外，类似的决定因素还包括能源价格。如2022年的俄乌战争致使欧洲被迫放弃一个稳定且足量的石油煤炭、与天然气的供应源，可以预见的是随之而来的燃料、运输、以及供暖成本的激剧抬升，势必会使原本羸弱<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup>的欧洲工业雪上加霜、消费者也不得不承担转嫁而来的工业产品价格普遍上涨。</p>
+<p>此前提及的需求拉动型的通货膨胀尚可由中央银行通过<strong>缩减流通中的货币总量</strong>进行调控，毕竟需求不外乎是出于预期与实际的收入增长及与之伴生的消费者乐观心态（只要是钱的问题就好办）；而本处成本推动型的通货膨胀已然是”金钱无法解决的“，更多地仰仗于其他因素（诸如地缘政治、瘟疫、以及供应链等）的转机。聊举一个事实：全世界人民未来几个月的幸福都捏在 Port of Shanghai 与 China Factory 手上，因此各国政要自然会希望 China free from lockdown。（这只是一个看问题的视角，不作更多讨论）</p>
+<h2 id="如何度量通货膨胀">如何度量通货膨胀</h2>
+<p>看完之前的描述，连笔者都不由得对通胀感到出离的厌恶。然而行文至此只是定性地浅谈，尚未涉及通货膨胀的度量，更遑论刻画通胀的不同程度。所以还是先收起朴素的情绪再看问题。</p>
+<p>关于度量，通货膨胀早已有了世界公认的标准，其中最为知名的便是<strong>消费者价格指数</strong>（Consumer Price Index, CPI）<strong>的变动</strong>。根据中国国家统计局的定义<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup>，CPI 是”通过<strong>一组代表性消费品及服务项目</strong>随着时间的变动，反映在居民家庭购买消费品及服务价格水平变动情况的<strong>相对数</strong>“。这”一组代表性的消费品和服务“包含的项目颇多，以澳大利亚版定义为例（下图），其内容涵盖住房、食品、娱乐、交通、医疗以及教育等诸多门类（确实很有代表性）。</p>
+<figure data-type="image" tabindex="4"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409491255.png" alt="" loading="lazy"></figure>
+<center>来源：澳大利亚储蓄银行（RBA）</center>
+<br>
+<p>下图为近五年的中国消费者价格指数（以2020年作为指数的基期，数值定为100），以此可初步勾勒普遍价格水平的变动。但由于此处基期的存在，CPI在视觉上并不能合理地呈现价格变动幅度，因此需要引入其变化率以便进一步观测。</p>
+<figure data-type="image" tabindex="5"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409499369.jpg" alt="" loading="lazy"></figure>
+<center>来源：Trading Economics</center>
+<br>
+<p>而其按年度计算的居民消费价格指数<strong>变动率</strong>通常被用来作为反映通货膨胀或紧缩程度的指标<sup class="footnote-ref"><a href="#fn5" id="fnref5:1">[5:1]</a></sup>。下图为近五年的中国通货膨胀率：</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>I</mi><mi>n</mi><mi>f</mi><mi>l</mi><mi>a</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mo>=</mo><mfrac><mrow><mi>P</mi><mi>r</mi><mi>i</mi><mi>c</mi><msub><mi>e</mi><mrow><mi>Y</mi><mi>e</mi><mi>a</mi><mi>r</mi><mn>2</mn></mrow></msub><mo>−</mo><mi>P</mi><mi>r</mi><mi>i</mi><mi>c</mi><msub><mi>e</mi><mrow><mi>Y</mi><mi>e</mi><mi>a</mi><msub><mi>r</mi><mn>1</mn></msub></mrow></msub></mrow><mrow><mi>P</mi><mi>r</mi><mi>i</mi><mi>c</mi><msub><mi>e</mi><mrow><mi>Y</mi><mi>e</mi><mi>a</mi><mi>r</mi><mn>1</mn></mrow></msub></mrow></mfrac><mo>≈</mo><mfrac><mrow><mi>C</mi><mi>P</mi><msub><mi>I</mi><mrow><mi>Y</mi><mi>e</mi><mi>a</mi><mi>r</mi><mn>2</mn></mrow></msub><mo>−</mo><mi>C</mi><mi>P</mi><msub><mi>I</mi><mrow><mi>Y</mi><mi>e</mi><mi>a</mi><mi>r</mi><mn>1</mn></mrow></msub></mrow><mrow><mi>C</mi><mi>P</mi><msub><mi>I</mi><mrow><mi>Y</mi><mi>e</mi><mi>a</mi><mi>r</mi><mn>1</mn></mrow></msub></mrow></mfrac></mrow><annotation encoding="application/x-tex">Inflation=\frac{Price_{Year2}-Price_{Year_1}}{Price_{Year1}}\approx\frac{CPI_{Year2}-CPI_{Year1}}{CPI_{Year1}}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="mord mathdefault">n</span><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">a</span><span class="mord mathdefault">t</span><span class="mord mathdefault">i</span><span class="mord mathdefault">o</span><span class="mord mathdefault">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.19633em;vertical-align:-0.8360000000000001em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.3139999999999996em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">i</span><span class="mord mathdefault">c</span><span class="mord"><span class="mord mathdefault">e</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.22222em;">Y</span><span class="mord mathdefault mtight">e</span><span class="mord mathdefault mtight">a</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.6769999999999996em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">i</span><span class="mord mathdefault">c</span><span class="mord"><span class="mord mathdefault">e</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.22222em;">Y</span><span class="mord mathdefault mtight">e</span><span class="mord mathdefault mtight">a</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord mathdefault" style="margin-right:0.02778em;">r</span><span class="mord mathdefault">i</span><span class="mord mathdefault">c</span><span class="mord"><span class="mord mathdefault">e</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.22222em;">Y</span><span class="mord mathdefault mtight">e</span><span class="mord mathdefault mtight">a</span><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:-0.02778em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">1</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2501em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8360000000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≈</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.19633em;vertical-align:-0.8360000000000001em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.36033em;"><span style="top:-2.3139999999999996em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.22222em;">Y</span><span class="mord mathdefault mtight">e</span><span class="mord mathdefault mtight">a</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.22222em;">Y</span><span class="mord mathdefault mtight">e</span><span class="mord mathdefault mtight">a</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span><span class="mord mtight">2</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span><span class="mord mathdefault" style="margin-right:0.13889em;">P</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.07847em;">I</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.22222em;">Y</span><span class="mord mathdefault mtight">e</span><span class="mord mathdefault mtight">a</span><span class="mord mathdefault mtight" style="margin-right:0.02778em;">r</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.8360000000000001em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
+<figure data-type="image" tabindex="6"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409519757.jpg" alt="" loading="lazy"></figure>
+<center>来源：Trading Economics</center>
+<br>
+尽管通货膨胀率（或CPI）仅是作为反映普遍价格变动的**滞后**指标[^6]，但这并不意味着它毫无用处。通胀率一方面可以对此前发生的影响普遍供给需求因素的事件予以确认，另一方面可以据此对后续连锁的经济反应做出预测。就上图的中国通胀率而言，其数值从2022年3月份的1.5%加速增长到4月份的2.1%（2021年11月以来的新高），由此可以定量地验证严格的 COVID-19 管控措施引发的物流中断对物价造成的影响。
+<p>然而以CPI变动率衡量通货膨胀亦有其天然的不足：该指标受下游消费品和服务价格影响较大，因此在监测需求拉动型通胀时其表现灵敏、在监测成本推动型通胀时则滞后颇多。与之相辅相成的是工业生产者价格指数（Producer Price Index for Industrial Products, PPI），能够较好地跟踪上游原材料的价格走势。此外，有人认为 PPI 的变化有可能被传导至 CPI ，对此俺不是很懂（在实证研究中仍缺乏太多证据）。如下图，2020年以来 PPI 已急剧上升，而2022年至今的 CPI 通胀尤为严重——或许可以作为上述理论不充分的支撑。</p>
+<figure data-type="image" tabindex="7"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409529725.jpg" alt="" loading="lazy"></figure>
+<center>来源：St. Louis Federal Reserve</center>
+<br>
+<h2 id="为什么温和的通货膨胀是有益的">为什么温和的通货膨胀是有益的</h2>
+<p>恶性通货膨胀（Hyperinflation）想必都有所耳闻：在物价飞速上涨的情况下货币失去了价值。例如在1989至1994年间，南斯拉夫<sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>迫于通胀压力发行如下图的巨额钞票以适应新物价。这样的经济中无疑会摧毁个人对国家及其货币的信心、令其丧失工作的动力。</p>
+<figure data-type="image" tabindex="8"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409538954.jpg" alt="" loading="lazy"></figure>
+<center>图片来源：Wikipedia</center>
+<br>
+<p>这样的案例或许过于极端，不如进一步放宽条件：在现实生活中<s>比如今天</s>高企的通胀水平同样会对经济体及其中的每一个人造成损害（麻酱威化快要买不起了）。譬如最新一期的美国CPI通货膨胀率已经达到了8.3%、为四十年来的最高水平；与之形成对比的则是疲乏无力的收入增长、消费能力逐渐被侵蚀。</p>
+<figure data-type="image" tabindex="9"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1652409546365.jpg" alt="" loading="lazy"></figure>
+<center>来源：Financial Times</center>
+<br>
+<p>再次降低对通胀的预期。当通货膨胀稳定在相对温和的水平（如2%<sup class="footnote-ref"><a href="#fn7" id="fnref7">[7]</a></sup>）时，经济体在理论中将呈现高就业率经济活动旺盛的良好状态。这是因为消费者会据此预期物价将缓慢平稳地上升，预期之后花更多地金币购入，倒不如现在立即购买；由此在短期内消费需求得以增长，推动商业营收与工业产能的上行；进而雇佣更多的文员与工人来满足日益增长的对商品与服务的需求。这是一个理想的且自我强化的经济增长循环。对个人而言，温和的通胀在增加其所在公司与行业收入的同时也令其工资水平同步上升，在享受”涨工资的快乐“之于也不至于失业、或因通胀而损失购买力。此外温和的通胀也消除了通货紧缩的风险、避免了经济负向的自我强化循环（如1929至1939年间的大萧条<sup class="footnote-ref"><a href="#fn8" id="fnref8">[8]</a></sup>）。</p>
+<p>较之于恶性通胀、高通胀、通货紧缩，可以确认温和的通胀是最符合大多数人利益的。故此各大央行才费劲心思地追求温和的通货膨胀目标：如美国联邦公开市场委员会将长期平均通胀目标设定为2%；欧洲中央银行将中期通胀目标设定为2%；中国人民银行则将通胀目标设定为3%。为此他们使用各种货币政策与金融工具、时刻调整经济体中流通的货币数量~~，虽然最后很有可能因为供应链问题而徒劳无功。~~</p>
+<h2 id="结语">结语</h2>
+<p>谁会喜欢通货膨胀？作为普通人俺并不是很在意，只希望<s>麻酱威化能运到新加坡</s>地缘撕裂与疫情早日结束、供应链尽快恢复往常、世界重回互通有无你来我往的地球村。</p>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li>European Central Bank. “What Is Inflation?” <em>European Central Bank</em>, 7 Sept. 2021, https://www.ecb.europa.eu/ecb/educational/hicp/html/index.en.html.</li>
+<li>“What Factors Change Supply?” <em>Khan Academy</em>, https://www.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/supply-curve-tutorial/a/what-factors-change-supply.</li>
+<li>Foster, Sarah. “What Is Inflation and What Causes It?” <em>Bankrate</em>, https://www.bankrate.com/banking/federal-reserve/what-is-inflation/.</li>
+<li>“What Are Some of the Factors That Contribute to a Rise in Inflation?” <em>Federal Reserve Bank of San Francisco</em>, 1 Oct. 2002, https://www.frbsf.org/education/publications/doctor-econ/2002/october/inflation-factors-rise/.</li>
+<li>“Why US Inflation Surged in 2021 and What the Fed Should Do to Control It.” <em>PIIE</em>, 11 Mar. 2022, https://www.piie.com/blogs/realtime-economic-issues-watch/why-us-inflation-surged-2021-and-what-fed-should-do-control-it.</li>
+<li>Al Jazeera. “China Manufacturing Output Drops to Lowest Level in 2 Years.” <em>Al Jazeera</em>, 30 Apr. 2022, https://www.aljazeera.com/news/2022/4/30/china-manufacturing-output-drops-to-lowest-level-in-2-years.</li>
+<li>“Inflation and Its Measurement.” <em>Reserve Bank of Australia</em>, https://www.rba.gov.au/education/resources/explainers/inflation-and-its-measurement.html.</li>
+<li>“Economic Indicator.” <em>Wikipedia</em>, https://www.wikiwand.com/en/Economic_indicator.</li>
+</ol>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>指一定时间内，市场上生产部门生产出的商品，也就是提供给人们消费的商品总额，小于(落后)人们在这段时间内满足物质资料生活所需要产品的总额。在这种情况下，需求大于供给，这时候市场就成了卖方市场，卖方处于有利的地位。 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>第一，一系列的财政支持计划使消费者支出超过了COVID大流行前的趋势；第二，许多工人要么不敢返回工作岗位，要么无法返回工作岗位，因为学校或工作场所关闭迫使他们呆在家里；第三，消费从个人服务转向商品，超过了商品部门的生产能力。（纯 DeepL 机翻） <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>卡夫亨氏是美国一家食品公司，成立于2015年，由卡夫食品及亨氏合并所成立，主要透过旗下子公司在北美及国际市场经营食品及饮料业务，提供各式食品及饮料，包含起司、肉制品、饮料、咖啡、包装正餐、冷藏餐点、坚果零食、番茄酱与各式调味品及酱料、冷冻食品、汤品、豆类和面食餐点、婴儿食品等，为全球第五大及北美第三大的食品饮料厂商。 <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>Financial Times. &quot;European manufacturing&quot; https://www.ft.com/indepth/europe-make-or-break <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>“什么是居民消费价格指数（CPI）？.” <em>Gov.Cn</em>, http://www.stats.gov.cn/ztjc/tjzs/cpizzg/200709/t20070924_67262.html <a href="#fnref5" class="footnote-backref">↩︎</a> <a href="#fnref5:1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>1992 年至 1994 年间，南斯拉夫经历了世界经济史上第二长的恶性通货膨胀时期。通货膨胀率在 1994 年 1 月达到每月 3.13 亿%的峰值。 <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn7" class="footnote-item"><p>The Federal Reserve adopted average inflation targeting as part of its long-run monetary strategy framework in 2020. This strategy allows inflation to rise and fall such that it averages 2% over time. <a href="#fnref7" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn8" class="footnote-item"><p>“Great Depression.” <em>Wikipedia</em>, https://www.wikiwand.com/en/Great_Depression. <a href="#fnref8" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信贷之于经济]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/xin-dai-zhi-yu-jing-ji/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/xin-dai-zhi-yu-jing-ji/">
+        </link>
+        <updated>2022-05-08T08:13:25.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
+<p>“信贷之于经济”作为标题是一种出于总结的妥协，它太大又太小：俺既没有讨论整个经济，也没有仅仅局限于经济。有空阅读的朋友不妨将个人代入文中出现的每一次决策，体会“人性是如何利用信贷工具影响整个社会”这一过程。</p>
+<h2 id="何为信贷">何为信贷？</h2>
+<p>“信贷（Credit）是啥？这还不简单，不就是现在腆着脸借钱、以后抠抠索索地还钱呗？”（<s>全文终</s>）对于烙祥的如上评论俺感到不能再赞同。信贷的完整表达是“信用贷款”，不外乎包括“信用”与“贷款”两个要件。“现在借钱以后还钱”体现了“先行取得，日后再行偿还””的贷款特征；而“腆着脸”则说明了其中信用的重要性。除此之外，信贷产生的方式还包括例如“刷卡购物”商品交易中的延迟付款，本质上等同于取得贷款再行购物的捆绑。</p>
+<p>小学没毕业时的你向楼下杂货店赊账买汽水是信贷：仰仗的是父母天天光顾的频率以及买姜时豪掷千金的财力；初中邻桌向你借二十元钱承诺下周还也是信贷：凭的是他每周一鼓囊的钱包与游戏帐号里丰富的会员装备。小打小闹之外，在现代社会中信贷最为普遍的形式当属<s>想必大家都十分熟悉的</s>“银行信贷”（Bank-issued credit）。</p>
+<p>对此，俺曾经天真地认为银行仅为储蓄者与借款者之间资金流通的中介。这样的说法称不上错谬，只是略有过时、忽略了现代银行业“无中生有”的本事。</p>
+<blockquote>
+<p>假设A打工归来，向化肥厂银行存入100元大洋（Cash），约定好一年后银行将本金与利息如数奉还。</p>
+<ol>
+<li>化肥厂银行转手将你的100元借给B，约定好三个月后归还本息；</li>
+<li>B用到手的100元向超市老板C购买麻酱威化；</li>
+<li>C将所得的100元存入化肥厂银行保管，约定灵活取出；</li>
+<li>三个月到期，B向银行还钱；</li>
+<li>新的一轮三个月借款；除了A的100元外、C所得的100元也将被借出…</li>
+</ol>
+</blockquote>
+<p>多么皆大欢喜的结局：A一年后收获了本金100元与利息；B品尝了了市价100元的麻酱威化；C拿到了了100元的营业收入；银行虽然付出了利息支出，但通过吸收长期储蓄、借出短期资金，也能在周转腾挪中喜提更多的利息收入。最重要的是，从A到B再到C的三个月内，原本的100元大洋经银行之手“变”为了200元（A的100元存款+C的100元存款）。“钱生钱”未免太快了！</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651997625049.jpg" alt="" loading="lazy"></figure>
+<center>图片来源：Forbes</center>
+<br>
+当然这多出的100元并非是凭空出现，其背后的支撑是借款者B的**信用**、并以贷款的形式存在于化肥厂银行的资产中。在银行的数据中个人信用虽然只是数字，其估计的过程却凝结了贷款申请人的个人情况（年龄、性别、职业等）、经济情况（月收入、存款、保险等）以及此前的信用状况（司法记录、业务往来、是否有其他贷款等）。因此贷款人向银行借钱的本质是以信用交换金钱；在信用与贷款额严重不对等的情况下，贷款人还需将有价值且易变现的物品**抵押**给银行作为信用的补充。若未能及时履行还款义务，银行损失金钱的同时贷款人也失去了长久以来积累的信用。
+<p>作为信贷的提供方，银行在决定贷款额度时考虑的最重要因素并非利率（更多由市场决定），而是借款人的信用；但由于信用无法直接变现（变现成本较高），在额度较高的贷款中银行通常要求申请人提供抵押物作为信用补充：信用的天然缺陷决定了贷款更容易流向房地产与金融（抵押物价值稳定），而不是流向制造业与小型企业（抵押物价值波动大）。</p>
+<p>从实质上升到表面，倘若熟悉<a href="http://www.iqinshuo.cn/536.html">复式记账法</a>便可知，当银行创造一个新的贷款资产时，他们也必须创造一个相等且相反（Contra-account）活期存款负债；而这种活期存款被纳入了在中央银行的广义货币中。因此无论从实质还是表象出发，银行通过借出贷款这一行为创造了<strong>信用货币</strong>；这一过程并非无中生有，而是借助借款人的信用而衍生；当信用随着违约而湮灭时，由信用衍生的货币也将无迹可寻。</p>
+<p>在化肥厂银行的例子中，倘若借款者B未向C购买麻酱威化而是去赌博，以致<s>单车变摩托</s>未能如约还款，那么储户A必然会对银行的管理能力大失所望、赶忙去提现。从噩梦中醒来的行长为了防患于未然不得不预先划分一部分资金应对A们的<s>恶意</s>取钱行为。由此可供放贷的资金变少了，创造的货币也相应地缩减。现实世界中最典型的例子便是<strong>存款准备金</strong>：指金融机构为保证客户提取存款和资金清算需要而缴存在中央银行的存款。故此中央银行可以通过调整<strong>存款准备金率</strong>（中央银行要求的存款准备金占其存款总额的比例）来控制信贷、进而间接加速或减缓信用货币的产生（其效果相较于<a href="https://wisburg.com/articles/258149">公开市场操作</a>而言更为显著）。（中央银行控制信用货币总量的另一动机？参见<a href="http://www.stats.gov.cn/ztjc/tjzs/zjcpi/201106/t20110610_71467.html">通货膨胀</a>）</p>
+<p>总而言之，信贷是以信用换取金钱、同时创造信用货币的过程；信用作为贷款的支撑存在着难以变现的天然缺陷，故此抵押物往往伴随出现作为补充——由此产生了信贷流向的差异；出于对信用货币总量的控制，中央银行可以通过调整存款准备金以防范可能出现的违约风险与流动性风险。</p>
+<h2 id="信贷之于个人">信贷之于个人</h2>
+<p>此处不妨问自己一个颇为微妙的问题：</p>
+<blockquote>
+<p>为什么要借钱消费？用自己的钱不是更加心安理得没有烦恼吗？</p>
+</blockquote>
+<p>对此俺的理解是<s>还不是因为没钱要不然借钱干嘛</s>合情合理。就一个收入充足稳定、谨慎理性、且欲望淡薄的人而言（条件未免太多），借钱并非优选；但一旦不满足上述任一条件，借钱便显得颇为诱人。人们借贷不外乎出于两种目的：消费或投资。借贷消费可以满足日常刚需或者极致的享乐，而借贷投资可以满足未来财富增长的欲望。</p>
+<p>消费就是花钱满足个人欲望。有人花钱如流水，亦有人三天掏不出一枚钢镚，其背后的决策均取决于收入、个人喜好、社会习俗、甚至身边人购买行为对其本人产生的影响。获取信贷近似于增加了个人短期内的收入，使得借贷人更有动机进行相对大额的近期消费；但信贷也透支了未来的收入，如若收入没有相应提高，这势必导致借贷人在还款时节衣缩食。由此可见，信贷可以激发短期的消费，但若缺乏长期的收入增长或是新增信贷支持，一时涌现的消费亦会退潮。</p>
+<p>投资也是花钱，但却是出于增加未来收入的愿景。这部分额外的收入可能源于资产升值带来的资本利得（如学区房的转手买卖），亦或是源于资产本身特性带来的稳定现金流（如生意火爆的餐室每日进账颇丰，<s>亦如刷信用卡买 Leetcode 会员刷题转码走向人生巅峰</s>）。信贷的支持拓展了个人投资的选项（例如原本只够买一个厨房，但现实又不允许只买厨房，贷款后便可买整套屋子），也可帮助投资者增加下注的筹码以扩大盈利（比如化肥厂老板增添设备扩大生产）。当然投资有风险，并非所有人的投资均能取得<s>正的</s>优秀的回报（譬如买基金的你），血本无归的情况也不少见。因此在乐观的假设下信贷增强后的投资提高了预期收入、也减轻了还款压力；在悲观的情形中信贷增强的投资不仅没有令借贷人从短期消费中获得快乐，同时也因还款压力令未来的可支配收入缩水。</p>
+<p>对于凡人而言，借贷消费比借贷投资描绘的远景更为清晰：今天消费的快乐与明日还款的痛楚都是板上钉钉的；而今日投资要么获得平淡无奇的低风险收益、要么则在追求高收益的过程中惴惴不安，且明日同样需要还款。因此在今日之和谐安宁的社会中有相当比例的人群选择借助信贷超前消费——没有生存压力时这显然是厌恶风险天性的选择。相较之下借助信贷增强投资需要考虑太多的因素诸如融资成本之高低、还款期限与投资回报期限的错配等等，随处都是天然阻碍思考的壁垒。故而信贷消费的需求更高。从信贷供给的角度看，由于信贷支持消费往往具有小额且期限较短的特征、而信贷支持投资则大额且期限较长，所以出于对风险的规避，信贷提供者如银行为消费信贷设置的门槛更低、而对投资所需信贷的审核格外严厉且要求抵押物。</p>
+<p>以上为个体视角下信贷对消费与投资产生的作用，其中人性对不确定性的厌恶以及对享乐的热爱是关键因素。倘若从社会整体的视角切入，信贷又作用于何处？</p>
+<h2 id="信贷之于社会">信贷之于社会</h2>
+<p>自人类社会出现分工与贸易活动以来，What you pay is what others earn。以下一系列<s>夸张的</s>活动很好地诠释了这一点：</p>
+<blockquote>
+<ol>
+<li>贫穷时时你只能花10元购买麻酱威化，富有后拥有100元后便可大买特买麻酱威化，二者的区别不仅在于购买者吃得如何，也在于威化厂由此获得的收入。</li>
+<li>仅获得10元收入的威化厂无力扩增产能，只能混吃等死；获得100元收入的威化厂可以多向面粉厂买些面粉用于生产，意气风发。</li>
+<li>威化厂不扩张产能，面粉厂门前冷落鞍马稀；威化厂大力生产，面粉厂迎头赶上。</li>
+<li>小麦农民蹲在田里等待面粉厂贩子来收自己的辛苦成果…</li>
+</ol>
+</blockquote>
+<p>可见，起初购买麻酱威化这样漫不经心的消费行为最终决定了农民大哥的成果能否变现，~~还不快多买麻酱威化助农？~~在缺乏信贷支持的环境下，资金有限的俺对麻酱威化的热爱需要克制；而在信贷充裕的环境里俺可以凭借自己的信用获得额外的威化专项资金。因此信贷的存在不仅加速了威化消费，同时也促进了威化上游生产的扩张；同理上游企业亦可凭借增加的收入获取更多信贷支持，进一步提升对上上游产品的需求，伴随着增加了其收入与获取信贷的能力…这沿着交易链逐层传递的过程是自我强化的（Self-reinforcing）。如下图简化交易链的例子中，假设借贷比例为初始拥有资金的10%，A作为最下游的麻酱威化买家凭借1000元本金借贷100元（共1100元）开始消费，最终能使最上游的某原材料厂商G获得1771.561元的收入、赋予其更高的信贷额度；与此同时交易链中信贷总量高速增长（近似于等比数列求和）</p>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651997698871.png" alt="" loading="lazy"></figure>
+<center>自我强化的信贷扩张示例</center>
+<br>
+<p>正如此前所提及，信贷创造了信用货币，而上图中七轮交易之后新增的信用货币总量（948.7171）俨然已十分接近初始资金总额（1000），可以说此条交易链中的货币总和近乎翻倍。然而从实际生产的角度看，首先新增的麻酱威化生产（需求）量仅增长了10%（100/1000），遑论其他上游原材料。如此以来，在这条简单的交易链条中支出的货币增长远超实物增长，则全链条的产品的平均价格必然上涨以适应新的信贷总量。（这亦是<strong>通货膨胀</strong>的小小实例&amp;原因之一）</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651997892373.jpg" alt="" loading="lazy"></figure>
+<center>来源：How The Economic Machine Works by Ray Dalio</center>
+<br>
+<p>如此简短的交易链条尚且如此，更何况现实世界中由复杂且交错的交易链交织而成的贸易网。可以预见信贷的扩张必然引发（名义）物价水平的整体上移。倘若对信贷扩张不加以约束，其引发的通货膨胀将极大增加个人的生活成本。因此中央银行会通过相对<a href="https://wiki.mbalib.com/wiki/%E7%B4%A7%E7%BC%A9%E6%80%A7%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96">紧缩的货币政策</a>来限制信贷规模上涨。</p>
+<p>上文出现的情形为信贷之于社会的甜蜜期：融资成本便宜的资金供应充足，极大刺激了消费与生产。然而当还款日期逼近且融资成本高升时，信贷反而成了勒紧社会的腰带：扣除还款额后的每月可支配收入大不如前，消费放缓，同理引发上游供应商销售放缓、产能收缩，进而限制了获取信贷支持的能力。这又是一次自我强化的链传导。为了避免信用货币规模严重下滑引发<a href="http://www.stats.gov.cn/ztjc/tjzs/zjcpi/201106/t20110610_71480.html">通货紧缩</a>（物价水平不断下滑会影响生产与投资的收入、抑制经济），中央银行会尝试通过相对宽松的货币政策保持信贷规模的增长。</p>
+<h2 id="结语">结语</h2>
+<p><s>真牛啊这么长都看完了</s>希望每个人都能在清晰地认识本性之后合理借助信贷工具追求所愿，造福自己的同时也为社会保持良好且温和的周期循环。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经济机器动力组分一：生产力]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/jing-ji-ji-qi-dong-li-zu-fen-yi-sheng-chan-li/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/jing-ji-ji-qi-dong-li-zu-fen-yi-sheng-chan-li/">
+        </link>
+        <updated>2022-05-04T03:33:37.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
+<blockquote>
+<p>十四年前，Ray Dalio (下称“瑞老师”）发表了题为 “How the Economic Machine Works and How it is Reflected Now” 的文章，深入浅出地阐释了经济运行的原理；八年前，瑞老师又制作并上传了这篇文章的视频讲解，以丰富的图示与动画进一步精简了原文相对冗长的论述；然而直到本周二的深夜，俺，一位声称接受了四年金融本科教育的老学生，终于在网上冲浪时发现了这两座宝藏，方知自己才疏学浅至此。深感启发的同时也意识到其间仍有不少概念与理论未明，故此拾人牙慧之余再添些俺个人的查阅、思考与注解，以飨 Subscriber。</p>
+</blockquote>
+<p>以上为<a href="https://thisiswhatihavestudied.github.io/post/shi-ren-ya-hui-or-jing-ji-ji-qi-ru-he-yun-xing/">拾人牙慧 | 经济机器如何运行？</a>一文的首段，其中的真挚感激亦适用于本文，故复用于此。</p>
+<p>作为知识的三手搬运工，在上篇的写作过程中俺惊觉：过于冗长的推导论述以及专有名词的堆叠会严重阻碍知识的传播——而这与俺的初衷又是相悖的。依俺之见，专业名词存在的意义不外乎是帮助专业人士提高相互沟通的效率；而俺并非专业人士，本次知识搬运的目的也并非要向专业人士普及他们早已了然于胸的基本常识。所以在征求朋友的意见后，俺由此决定拆分原文的三部分，对每一部分作优化调整、以达到“不需要专业名词也可以讲话”的目的。<s>除了水额外三篇文章外加修复个别错误</s>之外其他方面的考虑暂时没有，还请批评指正。</p>
+<ul>
+<li>FYI: Some external links (May require extra internet access)
+<ul>
+<li>Ray Dalio 是谁：<a href="bridgewater.com/people/ray-dalio">Ray Dalio</a></li>
+<li>原作参见：<a href="https://media.economist.com/sites/default/files/pdfs/A_Template_for_Understanding_-_Ray_Dalio__Bridgewater.pdf">How the Economic Machine Works</a></li>
+<li>原视频参见：<a href="https://www.bridgewater.com/how-the-economic-machine-works">How the Economic Machine Works</a></li>
+<li>长篇大论的个人解读参见：<a href="https://thisiswhatihavestudied.github.io/post/shi-ren-ya-hui-or-jing-ji-ji-qi-ru-he-yun-xing/">拾人牙慧 | 经济机器如何运行？</a></li>
+<li>个人博客: <a href="https://thisiswhatihavestudied.github.io/">This Is What I Have Studied</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="何为生产力">何为生产力？</h2>
+<p>相信每个人或多或少都曾经在新闻里读到类似于这样的句子：</p>
+<blockquote>
+<ul>
+<li>…中国<em>生产力</em>十大标志性成就，既是我国改革开放的实践成果，也体现着我国<em>生产力</em>发展的内生动力…</li>
+<li>…科技创新是提高社会<em>生产力</em>和综合国力的战略支撑，必须“坚持走中国特色自主创新道路…</li>
+<li>…数据是未来新经济的最大<em>生产力.</em>..</li>
+</ul>
+</blockquote>
+<p>作为一位典型的中华男子，回想起过往茶余饭后的闲谈，“生产力”一词的存在感确乎不低。扪心自问，俺真的知道何为生产力（Productivity）吗？说不出所以然的俺为了避免继续现眼，只好搜索一番。小插曲：在某国劳工统计局的K-12公益教育页面，四个<s>俺也想问的</s>问题映入眼帘：<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651635273975.png" alt="" loading="lazy"></p>
+<center>来源：U.S. Bureau of Labor Statistics</center>
+<br>
+<p>根据 Paul Krugman 给出的定义，生产力指的是一个经济体在<strong>一定时间内</strong>能够将多少<strong>投入</strong>（如麻酱和面粉）转化为多少<strong>产出</strong>（如麻酱威化）；换言之，它衡量的是投入产出的转化效率：给定时间与投入比较产出、抑或给定与时间与产出比较投入。</p>
+<h2 id="如何衡量生产力">如何衡量生产力</h2>
+<p>一个物件的制造并非易事。小者如饮料冰块需要麦当劳叔叔以水为原料外加用电制冷一晚最终才能进入你的中杯可乐；<s>不太</s>大者如 BA II 计算器需要橡胶、塑料、电路与芯片等等的生产组装期月才送到了<s>上腾讯会议大学的</s>你手中。但无论组分构成多么复杂，除法足以囊括其中的哲学：</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">生</mi><mi mathvariant="normal">产</mi><mi mathvariant="normal">力</mi><mo>=</mo><mfrac><mrow><mi mathvariant="normal">一</mi><mi mathvariant="normal">定</mi><mi mathvariant="normal">时</mi><mi mathvariant="normal">间</mi><mi mathvariant="normal">内</mi><mi mathvariant="normal">的</mi><mi mathvariant="normal">产</mi><mi mathvariant="normal">出</mi><mi mathvariant="normal">量</mi></mrow><mrow><mi mathvariant="normal">一</mi><mi mathvariant="normal">定</mi><mi mathvariant="normal">时</mi><mi mathvariant="normal">间</mi><mi mathvariant="normal">内</mi><mi mathvariant="normal">的</mi><mi mathvariant="normal">投</mi><mi mathvariant="normal">入</mi><mi mathvariant="normal">量</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">生产力=\frac{一定时间内的产出量}{一定时间内的投入量}
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">生</span><span class="mord cjk_fallback">产</span><span class="mord cjk_fallback">力</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.363em;vertical-align:-0.686em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.677em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord cjk_fallback">一</span><span class="mord cjk_fallback">定</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">间</span><span class="mord cjk_fallback">内</span><span class="mord cjk_fallback">的</span><span class="mord cjk_fallback">投</span><span class="mord cjk_fallback">入</span><span class="mord cjk_fallback">量</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord cjk_fallback">一</span><span class="mord cjk_fallback">定</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">间</span><span class="mord cjk_fallback">内</span><span class="mord cjk_fallback">的</span><span class="mord cjk_fallback">产</span><span class="mord cjk_fallback">出</span><span class="mord cjk_fallback">量</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.686em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span></span></p>
+<p>举例而言：</p>
+<blockquote>
+<ol>
+<li>除人工外条件完全相同的A工厂与B工厂在一年内均生产了一吨化肥，但A雇佣了五名工人，B却使用了十名工人，那么显而易见的是A工厂的人工效率（生产力）更高；</li>
+<li>除原料使用量外条件完全相同的A工厂与B工厂在一年内均生产了一吨化肥，但A在生产中使用了两吨氮磷钾，B却使用了五吨，那么显而易见的是A的原料转化效率（生产力）更高；</li>
+<li>除电力使用量外条件完全相同的A工厂与B工厂工厂在一年内均生产了一吨化肥，但A在生产中使用了一万度电，B却使用了五万度，那么显而易见的是A工厂机器的电力使用效率（生产力）更高；</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>广义上不妨假设单位时间A工厂化肥的生产函数为：</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi mathvariant="normal">化</mi><mi mathvariant="normal">肥</mi><mi mathvariant="normal">产</mi><mi mathvariant="normal">量</mi><mo>=</mo><msub><mi>f</mi><mi>A</mi></msub><mo>(</mo><mi mathvariant="normal">工</mi><mi mathvariant="normal">人</mi><mi mathvariant="normal">数</mi><mi mathvariant="normal">，</mi><mi mathvariant="normal">氮</mi><mi mathvariant="normal">磷</mi><mi mathvariant="normal">钾</mi><mi mathvariant="normal">使</mi><mi mathvariant="normal">用</mi><mi mathvariant="normal">量</mi><mi mathvariant="normal">，</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">A化肥产量=f_{A}(工人数，氮磷钾使用量，...)
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord cjk_fallback">化</span><span class="mord cjk_fallback">肥</span><span class="mord cjk_fallback">产</span><span class="mord cjk_fallback">量</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">A</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord cjk_fallback">工</span><span class="mord cjk_fallback">人</span><span class="mord cjk_fallback">数</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">氮</span><span class="mord cjk_fallback">磷</span><span class="mord cjk_fallback">钾</span><span class="mord cjk_fallback">使</span><span class="mord cjk_fallback">用</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">，</span><span class="mord">.</span><span class="mord">.</span><span class="mord">.</span><span class="mclose">)</span></span></span></span></span></p>
+<p>而B工厂在单位时间的生产函数为：</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi><mi mathvariant="normal">化</mi><mi mathvariant="normal">肥</mi><mi mathvariant="normal">产</mi><mi mathvariant="normal">量</mi><mo>=</mo><msub><mi>f</mi><mi>B</mi></msub><mo>(</mo><mi mathvariant="normal">工</mi><mi mathvariant="normal">人</mi><mi mathvariant="normal">数</mi><mi mathvariant="normal">，</mi><mi mathvariant="normal">氮</mi><mi mathvariant="normal">磷</mi><mi mathvariant="normal">钾</mi><mi mathvariant="normal">使</mi><mi mathvariant="normal">用</mi><mi mathvariant="normal">量</mi><mi mathvariant="normal">，</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mi mathvariant="normal">.</mi><mo>)</mo></mrow><annotation encoding="application/x-tex">B化肥产量=f_{B}(工人数，氮磷钾使用量，...)
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord cjk_fallback">化</span><span class="mord cjk_fallback">肥</span><span class="mord cjk_fallback">产</span><span class="mord cjk_fallback">量</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight" style="margin-right:0.05017em;">B</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mopen">(</span><span class="mord cjk_fallback">工</span><span class="mord cjk_fallback">人</span><span class="mord cjk_fallback">数</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">氮</span><span class="mord cjk_fallback">磷</span><span class="mord cjk_fallback">钾</span><span class="mord cjk_fallback">使</span><span class="mord cjk_fallback">用</span><span class="mord cjk_fallback">量</span><span class="mord cjk_fallback">，</span><span class="mord">.</span><span class="mord">.</span><span class="mord">.</span><span class="mclose">)</span></span></span></span></span></p>
+<p>则针对不同要素投入的转化效率即可表示为化肥产量函数的偏导数（例如<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mi mathvariant="normal">∂</mi><mi>f</mi></mrow><mrow><mi mathvariant="normal">∂</mi><mi mathvariant="normal">工</mi><mi mathvariant="normal">人</mi><mi mathvariant="normal">数</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{\partial f}{\partial 工人数}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.277216em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.9322159999999999em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight" style="margin-right:0.05556em;">∂</span><span class="mord cjk_fallback mtight">工</span><span class="mord cjk_fallback mtight">人</span><span class="mord cjk_fallback mtight">数</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.446108em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight" style="margin-right:0.05556em;">∂</span><span class="mord mathdefault mtight" style="margin-right:0.10764em;">f</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>）。</p>
+</blockquote>
+<p>此外，譬如俺常常<s>在小红书</s>遇到“花了两个月的时间考研上岸”之类的语句。也许有人<s>如俺</s>会因此疑惑：时间是否可以视作一种生产投入？相关内容众说纷纭，对此俺比较认同的理解是“投入的并不是‘时间’，而是在一定的时间段内投入了劳动“；”一定时间内的投入“已经暗含了时间因素。故此”时间“在关于生产力的讨论中应不应被视为投入，而应被看作为了达到可比性而做的标准化（Normalization ）。</p>
+<p>当A、B工厂不仅生产化肥，还生产农药时，若要衡量全厂整体的生产力，无法单纯地将化肥与农药二者各自的转化效率相加：二者的投入要素的物理化学性质均不尽相同且不同工厂间的生产重点不尽相同，单位时间内的产量可能存在天然的（数量或者度量单位的）巨大差异（假设化肥单位时间的产量（吨）平均而言远超农药的产量（吨）），因此以产量总和统计两种或多种产品未免偏颇严重。好在经济价值是不同事物间共有的性质：将产量借助单位价值转化为产出的经济价值再相加求和，由此很好地解决了上述问题：</p>
+<p class='katex-block'><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">总</mi><mi mathvariant="normal">生</mi><mi mathvariant="normal">产</mi><mi mathvariant="normal">力</mi><mo>=</mo><munderover><mo>∑</mo><mi>i</mi><mi>n</mi></munderover><mi>V</mi><mi>a</mi><mi>l</mi><mi>u</mi><mi>e</mi><mo>(</mo><msub><mi>f</mi><mi>i</mi></msub><mo>)</mo></mrow><annotation encoding="application/x-tex">总生产力=\sum^{n}_{i} Value(f_i)
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">总</span><span class="mord cjk_fallback">生</span><span class="mord cjk_fallback">产</span><span class="mord cjk_fallback">力</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:2.929066em;vertical-align:-1.277669em;"></span><span class="mop op-limits"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span style="top:-3.050005em;"><span class="pstrut" style="height:3.05em;"></span><span><span class="mop op-symbol large-op">∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span class="pstrut" style="height:3.05em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathdefault mtight">n</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:1.277669em;"><span></span></span></span></span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathdefault" style="margin-right:0.22222em;">V</span><span class="mord mathdefault">a</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">u</span><span class="mord mathdefault">e</span><span class="mopen">(</span><span class="mord"><span class="mord mathdefault" style="margin-right:0.10764em;">f</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathdefault mtight">i</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mclose">)</span></span></span></span></span></p>
+<h2 id="生产力延伸gdp">生产力延伸：GDP</h2>
+<p>为了具象化每个经济体的生产力，现实世界里常用GDP*衡量这一概念。其中，<strong>名义GDP</strong>代表了<strong>特定时间段内</strong>特定地理范围下生产的所有最终产品和服务当前<strong>市场价值</strong>的总和（符合前文所述关于生产力的定义），而<strong>实际GDP</strong>则按照过去某一时点的不变市场价格来统计这价值的总和。计算不难理解，但是这样做的意义是什么？不妨回到化肥的例子：</p>
+<blockquote>
+<p>假设今年化肥每吨十元，去年化肥每吨五元，前年化肥每吨三元。根据历史记录，今年工厂生产的化肥总市值为十元，去年为六元，前年则为五元，表面上看来这家工厂生产数字节节高（10&gt;6&gt;5）（近似于GDP），但实际上其化肥产量不增反降（5/3&gt;6/5&gt;10/10）（近似于实际GDP）。由此可见，GDP的增长并不能真实地反映经济的实际增长；唯有剔除市场价格浮动的实际GDP才能体现。若以前年的价格为基准，则实际生产的化肥的价值分别为五元（前年）、三点六元（去年）与三元（今年）。</p>
+</blockquote>
+<p>在明确了何为生产力、何为生产力增长、以及如何具象化这一指标之后，重返现实世界，下图蓝色的“+”表示的是美国人均实际GDP。可见在过去的八十年里该指标的增长十分稳定（粗略计算可得其年均复合增长率约为1.5%）、围绕绿色的趋势线波动地上升。对此瑞老师的解释是:此处的稳定增长主要源自科学技术（知识）的缓慢进步，从而带动生产力发展与生活水平提高。生产力的增长固然稳定，但其间的波动也是不容忽视的。众所周知，新知识是难以忘记的（<s>不是说你我脑袋里的那些</s>）、新技术是难以摒弃的，所以生产力的波动并非主要来自于知识与技术的变化。其间的原因究竟是什么？<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651635371163.png" alt="" loading="lazy"></p>
+<center>数据来源: Federal Reserve Bank of St. Louis</center>
+<br>
+<p>此时不妨打开尘封已久（<s>风扇灰很多</s>）的《经济学原理》PDF检索”生产要素“，运用排除法可知，除科技投入外人均生产力还由资本投入与自然资源的投入决定。而在短期内自然资源的供给可近似为常数，那么资本的投入此刻便是最显著的变数。</p>
+<p>何为资本（Capital）？根据古典经济学派的定义，资本泛指人类制成的用以生产其他商品的商品：包括机械，工具与建筑。现代社会中若要获取生产所需资本，首先需拥有足够的金融资本（资金）（Money）以向从事专业制造的个体进行交换活动。</p>
+<p>因此，纵然金融资本并非是生产要素中资本的一部分（因为它不被直接运用去生产任何商品），但随着社会分工的不断演化，不再事必躬亲的个体必须用金融资本换取资本。由此可见金融资本对生产的制约。而金融资本往往会因囿于信贷环境的制约而发生需求减少供给不足的状况，可见生产力的波动很大程度上是由信贷环境的变化造成的。（下一主题：信贷环境）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拾人牙慧 | 经济机器如何运行？]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/shi-ren-ya-hui-or-jing-ji-ji-qi-ru-he-yun-xing/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/shi-ren-ya-hui-or-jing-ji-ji-qi-ru-he-yun-xing/">
+        </link>
+        <updated>2022-05-01T09:50:34.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
+<p>十四年前，Ray Dalio (下称“瑞老师”）发表了题为 “How the Economic Machine Works and How it is Reflected Now” 的文章，深入浅出地阐释了经济运行的原理；八年前，瑞老师又制作并上传了这篇文章的视频讲解，以丰富的图示与动画进一步精简了原文相对冗长的论述；然而直到本周二的深夜，俺，一位声称接受了四年金融本科教育的老学生，终于在网上冲浪时发现了这两座宝藏，方知自己才疏学浅至此。深感启发的同时也意识到其间仍有不少概念与理论未明，故此拾人牙慧之余再添些俺个人的查阅、思考与注解，以飨 Subscriber。</p>
+<h2 id="基本框架经济运行的三大动力">基本框架：经济运行的三大动力</h2>
+<p>根据瑞老师的理论，经济是由 <em>1）生产力增长</em>，<em>2）长债务周期</em> 以及 <em>3）商业（市场）周期</em> 这三者驱动的。它们相互叠加相互作用，衍生出绝大部分的经济活动。起初，俺看到这样三个宏大的词汇不由得感到一阵发昏，不是很理解其本身的含义，遑论搞清三者如何叠加、如何交相呼应？俺诚惶诚恐地打开谷歌一一展开搜索。</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651399066541.png" alt="" loading="lazy"></figure>
+<center>来源：Ray Dalio's Illustration</center><br>
+<p>不过在<s>展开翻译</s>引经据典之前，俺先应质询自己何为经济增长？需要明确的是，本文中出现的经济增长均指代“国家的潜在和实际产出随着时间的推移而增加”。</p>
+<p>经济增长的加速与减速本质生产要素利用效率的波动。以人工这一资源为例，当工作时间极长时，劳动力资源被过度利用，因而总产出可以达到相当高的水平（甚至超过充分就业的产出），因而经济增长迅猛。然而每个通宵达旦学习过的高中生都懂，这样的努力不可能一直持续（除非你是什么不死肝帝），故而一段时间的过度利用之后人工生产的效率便会报复性的下滑，若不能继续延长工作时间，总产量必然下滑，经济增长紫腚减速（虽然只是减速的原因之一）。</p>
+<p>下文讨论的内容均与①“驱动潜在和实际产出的因素”和②“生产要素利用效率的波动”相关。</p>
+<h3 id="动力一生产力及其增长">动力一：生产力及其增长</h3>
+<p>首先，何为生产力（Productivity）？这一词汇在生活中常常出现，可是现时俺却说不出所以然。好在搜索结果的第一项定义便是由大名鼎鼎的 Paul Krugman 给出：它体现的是一个经济体在一定时间内能够将多少投入（如人力与资本）转化为多少产出（如最终产品）？</p>
+<blockquote>
+<p>举个例子，除人工外其他条件完全相同的A工厂与B工厂在一年内均生产了一吨化肥，但A雇佣了五名工人，B却使用了十名工人，那么显而易见的是A处工人的效率（生产力）更高。假设B工厂的工人闻之痛定思痛决定年年参加生产培训，五年后实现了化肥生产的翻番（两吨），那么由此可推断平均每年生产化肥的复合增长速度为14.87%（2^(1/5)-1=14.87%，可以粗略地视为生产力增长速度）。</p>
+</blockquote>
+<p>为了具象化每个经济体的生产力及其增长，现实世界里常用<em>实际GDP</em>衡量这一概念。简言之GDP代表了特定地理范围内生产的所有最终产品当前市场价值的总和，而实际GDP则按照过去某一时点的不变价格来统计这价值的总和。计算不难理解，但是这样做的意义是什么？</p>
+<blockquote>
+<p>回到化肥的例子：假设今年化肥每吨十元，去年化肥每吨五元，前年化肥每吨三元。根据历史记录，今年工厂生产的化肥总市值为十元，去年为六元，前年则为五元，表面上看来这家工厂生产数字节节高（10&gt;6&gt;5）（近似于GDP），但实际上其化肥产量不增反降（5/3&gt;6/5&gt;10/10）（近似于实际GDP）。由此可见，GDP的增长并不能真实地反映经济的实际增长；唯有剔除市场价格浮动的实际GDP才能体现。若以前年的价格为基准，则实际生产的化肥的价值分别为五元（前年）、三点六元（去年）与三元（今年）。</p>
+</blockquote>
+<p>在明确了何为生产力、何为生产力增长、以及如何具象化这一指标之后，重返现实世界，下图蓝色的“+”表示的是美国人均实际GDP。可见在过去的八十年里该指标的增长十分稳定（粗略计算可得其年均复合增长率约为1.5%）、围绕绿色的趋势线波动地上升。对此瑞老师的解释是:此处的稳定增长主要源自科学技术（知识）的缓慢进步，从而带动生产力发展与生活水平提高。生产力的增长固然稳定，但其间的波动也是不容忽视的。众所周知，新知识是难以忘记的（<s>不是说你我脑袋里的那些</s>）、新技术是难以摒弃的，所以生产力的波动并非主要来自于知识与技术的变化。其间的原因究竟是什么？</p>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651398775994.png" alt="" loading="lazy"></figure>
+<center>数据来源: Federal Reserve Bank of St. Louis</center><br>
+<p>此时不妨打开尘封已久（<s>风扇灰很多</s>）的《经济学原理》PDF检索”生产要素“，运用排除法可知，除科技投入外人均生产力还由资本投入与自然资源的投入决定。而在短期内自然资源的供给可近似为常数，那么资本的投入此刻便是最大的变数。近代以来金融资本尤其重要；而金融资本往往会因囿于信贷环境的制约而发生需求减少供给不足的状况。可见，生产力的波动很大程度上是由信贷环境的变化造成的。</p>
+<p>新的问题出现了：何为信贷环境？其变化又意味着什么？</p>
+<h3 id="补充信贷环境及其变化">补充：信贷环境及其变化</h3>
+<p>瑞老师借助游戏《大富翁》给出了一个关于信贷极为精妙的实例：<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651398810614.jpg" alt="" loading="lazy"></p>
+<center>来源：Dalio, Ray. "How the economic machine works."</center><br>
+<p><s>如果不愿意阅读以上解释</s>不妨从以下角度来进一步理解</p>
+<p><em>信贷</em>（Credit）指的是“先行取得金钱或商品，日后再行偿还”的行为。收入与资产水平越高的借贷人越容易触达更低成本的信贷；除此以外，由于宏观环境的变化，在不同的时间节点上获取信贷的渠道时而宽松时而紧张，并且其变化呈现出显著的周期性，即为<s>听起来十分的玄学的</s><em>信贷周期</em>。</p>
+<p>在步入周期变化之前，或许俺应对信贷本身作更多阐释。以下为微观交易引发信贷的简化实例（来自瑞老师的视频讲解）：即 &quot;What you pay is what other people earn&quot;</p>
+<blockquote>
+<p>假定银行放贷额度为借贷人收入（Income）的10%</p>
+<ol>
+<li>A作为指定的周期第一人，每月收入10000元，以此为信用基础向银行借款1000元，向B支付11000元购买果树</li>
+<li>B因此收入11000元，以此为信用基础向银行借款1100元，向C支付12100元购买化肥</li>
+<li>C因此收入12100元，以此为信用基础向银行借款1210元，向D支付13310元购买铲子</li>
+<li>…</li>
+</ol>
+</blockquote>
+<p>随着该序列的持续推进，观察可知，以初始A的收入作为起点，每位参与交易的朋友以现有的收入向银行借贷，购买资产的同时收获负债。如你所见，买方支出的增加引发了卖方收入的增加和净资产的增加，这提高了其作为借款人的借款能力，从而可以进行更高的消费。而作为交易链条的发端，第一人A的起始收入决定了整条的交易链的金额。假定A掌管了一台印钞机，愿花多少便印多少，那么A的收入即可视为整条交易链下唯一的货币（Currency），总量不变；而银行放贷产生的债务总量则为起始货币的衍生物，其总量可以随着交易的进行而不断扩张。</p>
+<p>在一个可以随时获得信贷的经济体中，个人可以以极少的本金获得商品和服务：银行会根据其信用水平，以其现有的资产和未来的收入为担保而发放贷款。综上可见，<em>信贷与支出</em>要比<em>货币与收入</em>增长更快。而货币扩张（Monetary expansion）常被用来支持信贷扩张（Credit expansion）：更多流通中的货币使得债务人更容易偿还贷款，也使得此前获取的资产价值更高（买方竞价会更为激烈）；因此货币扩张提高了信用等级、并增加了抵押品的价值，使借贷变得更加容易。</p>
+<p>借钱消费令人心动，凑钱还款令人拮据，而没钱还款更是让借贷双方都深感不幸。当贷款违约频繁发生时，银行及其存款人都将更为谨慎。这将极大地限制银行的放款能力并增加贷款的成本，使得现存的借债方在缺乏低成本的资金来源时被迫偿还更高昂的利息、两头为难；若借贷方因此深感无法生存、选择违约，将进一步加剧情况的恶化。信贷扩张由此放缓，甚至呈现出紧缩（Credit Contraction）的迹象。信贷周期正体现了这般扩张与紧缩的循环往复：当信贷泛滥且成本低廉时，借贷和支出就会增加；而当信贷稀缺且成本高昂时，借贷和支出就会减少。</p>
+<p>许多因素都会驱动信贷供给及其成本的变化，其中短期内作用颇为显著的便包括中央银行的货币政策。如下图所示，当消费低迷不振时，为了提升人们对消费的需求，央行往往会采用某些公开市场操作（Open-market purchase）（譬如耳熟能详的中期借贷便利MLF）投放资金，借由货币扩张来增进信贷扩张，从而降低信贷成本（利率）；当需求过度以致于通胀高企时，央行通过逆向的某些公开市场操作（Open-market sales）回收资金，借由货币紧缩提升信贷成本，从而冷却信贷活动。</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651398833965.png" alt="" loading="lazy"></figure>
+<center>图片来源：Wikipedia</center><br>
+<p>以上提及的“央行政策对短期信贷环境的调控”在商业周期中体现尤为明显。Just step into it.</p>
+<h3 id="动力二商业周期短债务周期">动力二：商业周期（短债务周期）</h3>
+<p>商业是以买卖方式使商品流通的经济活动，表现为人类主观的等价交换。大多数的商业行为是通过以成本以上的价格卖出商品或服务来赚取利润，而利润的累计也为扩大再生产创造了条件。由此可见蓬勃的商业活动将加速经济的增长。何为商业周期？根据 Wikipedia 的定义，它包含的是经济活动先扩张后衰退的一段（相对较短的）时间间隔。经济增长表现为产出的增加，而商业周期则反映了人性的弱点所引发的微小产出波动，本质是在贪婪、短视与享乐主义的干扰下，人类对生产的需求时而急切时而松弛。</p>
+<p>具体而言，瑞老师定义了四个扩张阶段与两个衰退阶段的表现（是表现不是根源）。不装了，直接开始 DeepL 大翻译（括号内为不一定准确的注解）：</p>
+<blockquote>
+<ul>
+<li>
+<p><strong>扩张早期</strong>：利率较低且信贷普及，人们对要求高额贷款的消费与投资（如汽车与住房）的需求不断提升。</p>
+<ul>
+<li>需求的增加促进了生产的扩大（潜在产出增加），进而推动了就业</li>
+<li>消费增长强劲，信贷规模增长迅速（因为借贷成本低廉），经济增长强劲且库存积累率增加（因为生产扩大），通货膨胀率低（尽管需求增长强劲，但生产扩大使得①供应不再紧张②规模经济有效降低了生产成本，故通胀水平低）</li>
+<li>股票升值（企业增长前景明朗且融资成本低），通胀对冲资产（如TIPS、黄金以及大宗商品）表现平平</li>
+</ul>
+</li>
+<li>
+<p><strong>扩张中期</strong>：经济增速大幅放缓（生产下滑），通胀率保持低位</p>
+<ul>
+<li>消费增长有所放缓，库存下降（当消费与投资的欲望得以部分满足，需求随之有所下滑，生产相应做出减速调整）</li>
+<li>利率持续走低（当消费与投资的欲望得以部分满足，信贷资金供过于求）</li>
+<li>股票市场上升趋势与通胀对冲资产的下降趋势均有所减缓（增长预期下调，通胀预期提升，Market has priced that in）</li>
+</ul>
+</li>
+<li>
+<p><strong>扩张晚期</strong>：经济增长适度回升（毕竟信贷便宜）但出现产能限制（生产要素的利用效率有限），信贷及需求增长仍然强劲（以至于供不应求）</p>
+<ul>
+<li>信贷支持的消费需求继续增长，库存通常回升，利率上升（对贷款的需求超过了储蓄资金的供给）</li>
+<li>通货膨胀开始呈上升趋势（产能限制致使①供应紧张②生产成本抬升）</li>
+<li>股票上涨停滞，通胀对冲资产表现良好</li>
+</ul>
+</li>
+<li>
+<p><strong>扩张紧缩期</strong>：经济增长停滞，通货膨胀继续上升，迫使中央银行开始转向紧缩的货币政策</p>
+<ul>
+<li>紧缩的货币政策使得流动性下降、利率上升（由于流动资金供不应求）</li>
+<li>进一步导致货币供应量和信贷增长下滑</li>
+<li>股市开始萎靡</li>
+</ul>
+</li>
+</ul>
+<p>衰退阶段随之而来</p>
+<ul>
+<li>
+<p><strong>衰退早期</strong>：经济增长停滞，失业率上升（缺乏信贷刺激的消费需求不足，产能受限，对人工的需求下滑）</p>
+<ul>
+<li>商品与通胀对冲资产价格下跌且通货膨胀走低（由于中央银行仍保持紧缩政策）</li>
+</ul>
+</li>
+<li>
+<p><strong>衰退晚期</strong>：随着通胀担忧的消退和经济衰退担忧的增加，中央银行逐渐放松货币政策</p>
+<ul>
+<li>利率下降，较低的利率导致股票价格上涨（为下一周期的扩张部分的开始创造了条件）</li>
+<li>商品价格和通胀对冲资产继续疲软</li>
+</ul>
+</li>
+</ul>
+</blockquote>
+<p>商业周期的更迭时间是短暂的，更为重要的是其中各阶段发生的原因与顺序：</p>
+<ul>
+<li>每一次扩张往往都是出于高涨的欲望与便宜的信贷；而滞后的生产总是慢一步做出调整，由此造成的供求失衡是通胀的来源之一（另一个是便宜的信贷）；为了治理通胀，央行借助货币政策缩减流动性间接提高信贷成本，在打击过热的消费与投资需求的同时也抑制了企业扩大生产的能力。</li>
+<li>随着消费需求抑制＋产能受限，此前滞后调整的生产对人工的需求成为过去式，失业率开始上升、经济增长停滞。出于担忧央行决定放宽货币政策，刺激经济进入下一轮的更迭。</li>
+</ul>
+<figure data-type="image" tabindex="4"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651398877582.png" alt="" loading="lazy"></figure>
+<center>图片来源：Khan Academy</center><br>
+<h3 id="动力三长债务周期">动力三：长债务周期</h3>
+<p>如<em>信贷环境及其变化</em>中所论述的，当债务和支出的增长速度超过货币和收入的增长速度时，这一过程往往是自我强化的（Self-reinforcing），因为买方支出的增加会使得卖方收入及净资产的增加，从而提高了他们获取信贷的能力以进行更多的支出。然而，正如瑞老所言，债务额度（Debt capacity）之于经济正如同氧气罐之于潜水者，短期内可以用它来获得额外的动力，但不可能长此以往靠它生存。</p>
+<figure data-type="image" tabindex="5"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651398892349.jpg" alt="" loading="lazy"></figure>
+<center>图片来源：Youtube - Marcel van den Berg</center><br>
+<p>当一个人（Nobody）无债一身轻时，他可以凭借自己的信用基础尽情借贷以满足消费与投资的欲望，不惜加杠杆高价购入个人所需（偏离供求均衡价格的购买也为资产价格的虚高埋下了伏笔）。如此的虚假繁荣使得他看起来似乎拥有良好的收入与信用（“撑门面”）以便继续以贷养贷；但是由于人性的贪婪，他选择性地忽略了一个事实：债务的增长不可能（长期地）超过其资产和收入的增长；故而当债务高企到一定程度、债务额度因收入有限而不能继续提高、且还款时间逐步逼近时，他往往发现以自己现有的收入和新债难以偿还临期的本金与利息。为了免于破产，他不得不减少消费、节衣缩食地还债。</p>
+<p>当上述的个例越来越多、个体债务总额超过收入总和时，实际的现金流无法满足债务人偿还债务的要求；而此前虚高的资产价格诱使中央银行利用公开市场操作提高利率（借贷成本）以治理通胀，进一步限制了整体的信贷额度。该经济体开始“缺钱”了。人们为了偿还债务不惜低价抛售此前以杠杆高价买入的资产，造成普遍的资产贬值，其中金融资产尤甚（毕竟玉米能吃国债却不能吃）；信贷抵押品的价值也因此下降，借款人的信用基础进一步降低、借贷更为困难。这又是一场自我强化的紧缩循环（Deflationary spiral）。这并非是一场恐慌情绪抛售诱发的危机，而是客观的信贷、货币、以及商品的供求关系造成的惨剧：日益减少的信贷随着违约而消失，空留虚高的资产独木难支。</p>
+<p>当中央银行的政策制定者有幸发现这不对劲的势头时，第一选择往往是借助公开市场操作降低利率。在瑞老师撰文的时代，0%似乎是直觉上利率的下限，以至于反复操作后利率触底、不再存在降息的空间。囿于传统的货币政策，决策者们感到有些束手无策，以致于在现实世界中，历经金融危机的欧洲央行（ECB）不惜于2014年引入（打破传统的）负利率、将其存款利率降至-0.1%，以此解决公开市场操作无处施展的窘境（令欧元贬值刺激出口也是另一个潜在动机（货币平价））。</p>
+<p>除了负利率之外，为了解决燃眉之急（去杠杆），央行与政府还拥有以下选项：</p>
+<blockquote>
+<ol>
+<li>放松信贷条件（降低贷款对资产与收入的要求）（然后贷款违约更多）</li>
+<li>组织债主与欠债人开展协商，以求展期或债务重整（然后抵押物价格更低）</li>
+<li>向富人征收重税并分配到需要的地方（然后富人纷纷外逃转移资产）</li>
+<li>开摆，直接印钱购买国债，借助政府之手绞劲脑汁地增加大家的（名义）收入
+<ul>
+<li>给国民发钱</li>
+<li>购买商品与服务</li>
+<li>投资基础设施建设</li>
+<li>…</li>
+</ul>
+</li>
+</ol>
+</blockquote>
+<p>其中，1、2与3本质上是在继续助推资产价格的下降，所谓“脚痛医脚”；若只开展3，则不断贬值的货币会刺激国内资本以及外国投资者加速抛售资产、光速逃离。因此如何在1、2、3、4中寻找一个平衡是当代政策制定者要思考的问题、也是他们治理水平的直接体现（<s>愚蠢的人类啊</s>）。</p>
+<p>抛开人类的处境不谈，市场历经痛苦后方得以修复：劫后余生的经济债务减少、资产便宜、货币子弹供应充足，似乎好起来了；然而这一过程可能数年之久（最近的一次发生在2002-2008年的阿根廷），何尝不是一代人之殇。</p>
+<h2 id="回顾与总结">回顾与总结</h2>
+<p>生产力增长意味着人类在给定的时间及资源下可以生产更多，因此在历史长河中无论中间历经了怎样的大骚乱或跃进，平均而言科技的进步总能支撑了经济增长的长期向上趋势。是反人性的科学规律保证了经济的长期发展。</p>
+<p>贪婪、短视与享乐主义是人性的弱点（也是我们大多数人活在世界上的意义），由此造成的超前消费与过度投资催生了信贷需求。经济时而在信贷的鼓动下扩大生产、高速增长；时而被高悬的债台逼得缩减开支、停滞不前。中央银行适当的政策介入有助于调节这两种商业环境的平衡转换。</p>
+<p>然而央行与政府政策制定者囿于人性的弱点并非全知全能，手中的政策工具短期内获许是蜜糖、长此以往亦或是鸩酒。人的生命很短暂，在有限的生命中白嫖尽可能多的社会福利是十分诱人的，而宽松的货币政策正允许政客们维持了这些深得民心的财政开支。一轮又一轮商业周期的更迭后，看似央行的灵活操作保持着信贷环境的稳定，然而人类的乐观主义注定会在使长期使利率走低的同时使总体债务水平螺旋上升，以致于引发最后的债务海啸与重新洗牌。</p>
+<h2 id="disclaimer">Disclaimer</h2>
+<ol>
+<li>本文仅讨论经济学意义上的（Economics-wise）“加速”与“减速”</li>
+</ol>
+<h2 id="参考资料">参考资料</h2>
+<ol>
+<li>Dalio, Ray. &quot;How the economic machine works.&quot; <em>Economic Principles</em> (2012).</li>
+<li>Krugman, Paul. &quot;Defining and measuring productivity.&quot; <em>The Age of diminishing Expectations</em> (1994).</li>
+<li>Mankiw, N. Gregory. <em>Principles of economics</em>. Cengage Learning, 2014.</li>
+<li>Fahey, Tom. “Unlocking the Credit Cycle.” <em>Unlocking the Credit Cycle</em>, Loomis Sayles &amp; Company, 1 Dec. 2019, info.loomissayles.com/unlocking-the-credit-cycle.</li>
+<li>“Open Market Operation.” <em>Wikipedia</em>, https://en.wikipedia.org/wiki/Open_market_operation</li>
+<li>Fidelity Institutional Asset Management®. “Business Cycle Update.” <em>Fidelity.Com</em>, Fidelity Institutional Asset Management®, 11 Mar. 2022, https://institutional.fidelity.com/app/item/RD_13569_40890/business-cycle-update.html.</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Is Oil Price Curve Driven by Ukraine Crisis?]]></title>
+        <id>https://ThisIsWhatIHaveStudied.github.io/post/how-is-oil-price-curve-drove-by-ukraine-crisis/</id>
+        <link href="https://ThisIsWhatIHaveStudied.github.io/post/how-is-oil-price-curve-drove-by-ukraine-crisis/">
+        </link>
+        <updated>2022-04-27T08:11:26.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Russia invaded Ukraine on 24 February 2022. The invasion not only triggered Europe's largest refugee crisis since WWII, but also made crude oil prices soar to record highs in March then fluctuated violently, leaving this energy product with greater price uncertainty. Such uncertainty concerns some participants while encourages speculators.  To have a better understanding in oil prices, this report focuses on temporary shocks, like this war, to market balances.</p>
+<p>In this brief report, there are three main questions to be discussed, the first is the theoretical and real-life explanation of this price shock; the second is how oil spot price and futures price respond to the shock; last but not least, how market participants would act to this shock?</p>
+<h2 id="theory-and-reality">Theory and Reality</h2>
+<p>Russia accounts for about 10 percent of global petroleum production. Russian crude exports averaged 4.27 mb/d, with Europe accounting for around 60 per cent of Russia’s total crude exports, followed by Asia accounting for nearly 35 per cent (). As to Russia’s invasion of Ukraine in late February, early estimates suggested that perhaps 3 million barrels a day of petroleum production—almost 3 percent of world production—had been effectively removed from the global oil market, constituting one of the largest supply shortfalls since the 1970s. (Kilian and Michael, 2022)</p>
+<p>However, the demand side of oil has become even stronger since the beginning of 2022. The International Energy Agency forecasted that global oil demand will exceed pre-pandemic levels this year as recent virus waves haven’t proved severe enough to warrant a return to strict lockdown measures (Will, 2022).  With booming demand and disruption in supply, both the spot price and futures price have become much more volatile.</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651047283591.png" alt="" loading="lazy"></figure>
+<center>Data Source: Bloomberg, Peterson Institute of International Economics</center>
+<br />
+<p>The relationship between commodity spot and futures prices can in part reflect the perception of short-term physical scarcity (Shaun and Neşe, 2010). The slope of the futures curve, measured as the difference between the price of a futures contract at some given maturity and the spot price, can provide information on whether market participants anticipate relative abundance or scarcity in the physical market. Below the figure shows how the slope of oil futures changed as crisis escalated. 'CL1' stands for Generic 1st 'CL' Future.</p>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651047299613.png" alt="" loading="lazy"></figure>
+<center>Data Source: Bloomberg, Peterson Institute of International Economics</center>
+<br />
+<p>Generally, the slope can change for one of three reasons:</p>
+<ol>
+<li>A change in interest rates</li>
+<li>A change in physical storage costs</li>
+<li>A change in the market’s perception of short-term scarcity and a compensating adjustment in the utility afforded by holding inventories.</li>
+</ol>
+<p>Theoretically, large changes in the futures curve slope are rarely caused by the first two explanations. Even though both interest rates and storage costs can move significantly over time, the very large discrete changes required to steepen or flatten futures curves sharply and rapidly are unlikely. In addition, it is highly impossible for a demand disruption to exist since the this shock looks low persistent and less smooth (Martin, 2017; Jone and Alain, 2020). This is especially true under current circumstances, where the crude oil from Russia is under boycott, thus causing expected supply disruptions.</p>
+<p>Related to the real world, there are both long-term and short-term dynamics playing here.</p>
+<ol>
+<li>
+<p>In the long-run oil supplies have dwindled as economies have bounced back from Covid-19, and supply growth has not kept up; and there’s a lot of competition for barrels of oil coming to market, because refiners want to cash in on rising demand.</p>
+</li>
+<li>
+<p>The shorter-term issue is Russia’s invasion of Ukraine. Uncertainty about sanctions and whether Russia will withhold oil exports from Europe has frightened traders and added a premium to prices. In addition, refineries are competing to secure alternatives to Russian crude out of fear of sanctions, causing Brent prices to soar in the near-term.</p>
+</li>
+</ol>
+<h2 id="reponses-from-spot-and-futures">Reponses from Spot and Futures</h2>
+<p>The shape of oil futures curve has been evolving from contango to backwardation twice in the past 3 years. Before COVID-19 started raging, oil futures curve turned from contango to backwardation because previous surplus in oil inventories was gradually digested. In the following 2020 when COVID suppressed the oil demand from production activities, the curve then reversed to contango again. Finally the most recent backwardation came as post-COVID era released great demand for the recovery of economy. How do the price of spot and futures with different maturities respond to new changes? And how they differ themselves from the others?</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651047308838.png" alt="" loading="lazy"></figure>
+<center>Data Source: Bloomberg</center>
+<br />
+<p>The most recent backwardation is getting strengthened by Russian invasion. With the escalation of Ukraine Crisis, the spot price (CL1) of crude oil drastically surged, leaving higher volatility. Compared with spot, longer-dated futures (CL2-CL10) are trading much lower because traders don’t expect these panicked dynamics to last. They believe that either the oil export sanction on Russia will end, or the market will find a way around the issue (Avi, 2022).</p>
+<figure data-type="image" tabindex="4"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651047313314.png" alt="" loading="lazy"></figure>
+<center>Data Source: Bloomberg</center>
+<br />
+<p>And this phenomenon also applies with data of recent 3 years. Noticeably there is one negative value lying on the spot curve, at which traders who couldn’t take on and store any more product but nobody wanted to buy as demand dried up (Walker, 2020). In contrast, futures did not move that drastically with lower standard deviation.</p>
+<figure data-type="image" tabindex="5"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651047320944.png" alt="" loading="lazy"></figure>
+<center>Data Source: Bloomberg</center>
+<br />
+<p>Plus, oil futures market offers deeper liquidity than spot. A liquid market is generally associated with less risk because there is always someone willing to take the other side of a given position, and traders will incur less slippage. Its robust liquidity supports the process of price discovery and allows traders to transact in the market swiftly and efficiently. Eventually it will make prices to converge at expected level.</p>
+<p>And liquidity indicates higher trading volume, which is inversely proportional to volatility. This is because liquidity provision is a bet against private information: if private information  regarding crude oil turns out to be higher than expected, liquidity providers lose. Since information generates volatility, and volatility co-moves across assets, liquidity providers have a negative exposure to aggregate volatility shocks.  (Itamar, Alan, and Alexi, 2020).</p>
+<h2 id="responses-from-market-counterparties">Responses from Market Counterparties</h2>
+<p>As Russian crude oil has been indirectly sanctioned since financial institutions started to refuse financing Russia-related transactions, it is becoming more and more struggling for western traders to clear Russian cargoes—this has been reflected in widening oil price differentials and rising shipping and insurance costs, which are due to war premium.</p>
+<p>Massive shifts in trade flows and sharp adjustments in price differentials (which is due to inefficient arbitrage in oil market across regions) to reflect shifts in Russian crude exports. Particularly, there could be a greater redirection of flows from Europe to Asia with private buyers from China, Japan and India. And this has already happened last month, when more Russian crude was shipped to Asia.</p>
+<p>At the sell side, Russian oil companies could offer sweeteners to buyers to make their barrels more attractive, for instance shifting cargoes from FOB (Free on Board) to CFR (Cost and Freight) basis.</p>
+<figure data-type="image" tabindex="6"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1651047326198.png" alt="" loading="lazy"></figure>
+<center>Source: Bloomberg</center>
+<br />
+<h2 id="summary">Summary</h2>
+<p>This historically severest oil futures backwardation is, theoretically, due to a sudden disruption in supply, which is in reality in line with the fear for sanctions on Russia's oil export and incentivizes refiners to compete for alternatives. These two factors have pushed the spot price to a very high level. Meanwhile, as the market participants (traders) expect that in the long run the oil export sanction on Russia will end or the market will find  substitutes, futures prices did not respond as fiercely as the spot price did. In addition to the expectation from traders, as oil futures offers abundant counterparty and is more accessible, it thus allowing higher trading volumes, which enables better price discovery and converge, thus lower volatility. While some western traders are struggling at clearing Russia cargoes on hand, Russian oil producers are offering not only low price but also favorable terms such as CFR to attract East Asia buyers, and this has been proven to be successful.</p>
+<h2 id="references">References</h2>
+<ol>
+<li>
+<p>Kilian, Lutz, and Michael D. Plante. “The Russian Oil Supply Shock of 2022.” <em>Dallasfed.org</em>, Federal Reserve Bank of Dalas, 22 Mar. 2022, https://www.dallasfed.org/research/economics/2022/0322.</p>
+</li>
+<li>
+<p>Horner, Will. “Oil Demand to Exceed Pre-Covid Levels in 2022, IEA Says.” <em>The Wall Street Journal</em>, Dow Jones &amp; Company, 19 Jan. 2022, https://www.wsj.com/articles/oil-demand-to-exceed-pre-covid-levels-in-2022-iea-says-11642582801.</p>
+</li>
+<li>
+<p>‌Roache, Mr Shaun K., and Ms Nese Erbil. &quot;How commodity price curves and inventories react to a short-run scarcity shock&quot;. International Monetary Fund, 2010.</p>
+</li>
+<li>
+<p>Stuermer, Martin. &quot;Demand Shocks Fuel Commodity Price Booms and Busts.&quot; <em>Economic Letter</em> 12.14 (2017): 1-4.</p>
+</li>
+<li>
+<p>Baffes, Jone, and Alain Kabudi. “Persistence of Commodity Shocks.” <em>World Bank Blogs</em>, World Bank, 12 Nov. 2020, https://blogs.worldbank.org/developmenttalk/persistence-commodity-shocks.</p>
+</li>
+<li>
+<p>Salzman, Avi. &quot;Severe Oil Backwardation Is Here. It's Not All Bad for Stocks.&quot; <em>Barron's</em>, 25 Feb. 2022, https://www.barrons.com/articles/severe-oil-backwardation-is-here-its-not-all-bad-for-stocks-51645804011.</p>
+</li>
+<li>
+<p>Walker, Andrew. “US Oil Prices Turn Negative as Demand Dries Up.” <em>BBC News</em>, 21 Apr. 2020, www.bbc.com/news/business-52350082.</p>
+</li>
+<li>
+<p>Drechsler, Itamar, Alan Moreira, and Alexi Savov. <em>Liquidity and volatility</em>. No. w27959. National Bureau of Economic Research, 2020.</p>
+</li>
+</ol>
+]]></content>
+    </entry>
+</feed>
