@@ -1,0 +1,287 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Tricks on Economic Surveys - Is it a Coincidence? | This Is What I Have Studied</title>
+<link rel="shortcut icon" href="https://ThisIsWhatIHaveStudied.github.io/favicon.ico?v=1706241541779">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://ThisIsWhatIHaveStudied.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="Tricks on Economic Surveys - Is it a Coincidence? | This Is What I Have Studied - Atom Feed" href="https://ThisIsWhatIHaveStudied.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="It is quite common and inevitable for news media to spread untrue views on economic indicators; however, we do not neces..." />
+    <meta name="keywords" content="Economics" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://ThisIsWhatIHaveStudied.github.io">
+  <img class="avatar" src="https://ThisIsWhatIHaveStudied.github.io/images/avatar.png?v=1706241541779" alt="">
+  </a>
+  <h1 class="site-title">
+    This Is What I Have Studied
+  </h1>
+  <p class="site-description">
+    Daily Study Routine
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页 Home
+        </a>
+      
+    
+      
+        <a href="/tag/XMlZlVdP5" class="menu">
+          Language Learning
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档 Archive
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签 Tags
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于本博客 About Me
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              Tricks on Economic Surveys - Is it a Coincidence?
+            </h2>
+            <div class="post-info">
+              <span>
+                2022-07-08
+              </span>
+              <span>
+                6 min read
+              </span>
+              
+                <a href="https://ThisIsWhatIHaveStudied.github.io/tag/QWfkBcU7b/" class="post-tag">
+                  # Economics
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <p>It is quite common and inevitable for news media to spread untrue views on economic indicators; however, we do not necessarily have to incorporate their false into our decision-making process. I find a lot of surveys conducted by authorities may not be that good as they sound. Here is an example from Xinhua Net, which posted a good economic survey but with bad interpretation and presentation.</p>
+<h2 id="example-cpri-index">Example - CPRI Index</h2>
+<h3 id="question-regarding-the-index-itself">Question Regarding The Index Itself</h3>
+<p>Thanks to Xinhua Net, here we  got our first victim<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>, China retail prosperity index (中国零售业景气指数). To begin with, I'd better clarify that this is a measure for individual consumers rather than companies.</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246699726.jpg" alt="" loading="lazy"></figure>
+<center>Source: Xinhua Net</center>
+<p>As the report points out, this indicator grew above 50% because &quot;government policies took effect&quot;. Let alone the causation, this indicator is apparently <strong>an leading indicator like Purchasing Manager Index</strong> (PMI), showing the expectation for the near future. Although it is quite arduous to figure out how this survey was compiled and conducted, from another source<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> I got the answer (see below): it is a weighted average index.</p>
+<figure data-type="image" tabindex="2"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246735510.jpg" alt="" loading="lazy"></figure>
+<center>Source: iFeng, DeepL</center>
+<p>Basically, this index consists of three business components: merchandise (50.5%, rose 0.7%), leasing (52.4%, rose 2.6%), and e-commerce (47.5%, fell 2.0%). By calculating the simple arithmetic mean, the number turns out to be 50.13%, proving that the weight for goods and leasing must be (slightly) higher than that for e-commerce, like one possible solution below (using Excel Solver), which is absolutely unreal but just for simulation purpose.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Individual Index</th>
+<th>Weight</th>
+<th>Composite Index</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Goods</td>
+<td>50.5</td>
+<td>15.13%</td>
+<td></td>
+</tr>
+<tr>
+<td>Leasing</td>
+<td>52.4</td>
+<td>45.84%</td>
+<td>50.2</td>
+</tr>
+<tr>
+<td>E-Commerce</td>
+<td>47.5</td>
+<td>39.03%</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<center>A Simple Demonstration Using Excel Solver</center>
+<p>I feel the number quite doubtful considering the prosperity e-commerce used to be. As the chart below shows, e-commerce sales accounted for 44.8% in 2020<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>, and should be higher for now as recent wave of COVID forced many bricks-and-mortar stores to close temporarily. In this sense, the parameter for e-commerce is very likely underestimated.</p>
+<figure data-type="image" tabindex="3"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246819511.png" alt="" loading="lazy"></figure>
+<center>Source: Insider Intellegence</center>
+<p>Additionally, leasing, as an existing large contributor, did saw a significant rise. Such a business model here may mean &quot;a company purchases a product and then leases it to a customer for a periodic fee&quot;. I can't help but ask: If I am able to purchase non-durable goods, why should I rent them instead?&quot; The logic for this thriving leasing business is apparently not this one.</p>
+<p>And you may wonder if it truly refers to the rise in retail space occupancy or rental rates --- I believe that's a more plausible hypothesis even without further evidence. But <strong>it is still questionable whether the rising cost were fully passed to consumers or not, or where did the business get so-called &quot;prosperity&quot; without cutting cost</strong>.</p>
+<h3 id="its-causation-seems-unsound">Its Causation Seems Unsound</h3>
+<p>As Zhang Lijun mentioned, CPRI index rose thanks to policies which took effect. Let's see what has taken place in June and May<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup><sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup><sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>.</p>
+<p>Firstly, strict Covid-19 control measures still darkened the economy. It basically ruled out the possibility of operating business without unforeseeable disruptions.</p>
+<figure data-type="image" tabindex="4"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246852399.jpg" alt="" loading="lazy"></figure>
+<center>Source: South China Morning Post</center>
+<p>Furthermore, supportive policies were mostly targeted at firms. <strong>It would be questionable whether additional benefit could be passed onto individual employees during this hard time.</strong> It is good to support firms in case of high unemployment (though undergoing), but that is only an floor which guarantees basic needs, not incentivizing extra consumption.</p>
+<figure data-type="image" tabindex="5"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246920177.jpg" alt="" loading="lazy"></figure>
+<center>Source: The State Council of the People's Republic of China</center>
+<p>And nominal increase in retail sales does not necessarily indicate real betterment. To summarize, it is true that although sales number peaked (Retail Sale is a <strong>leading</strong> indicator), but as some scholar noted (see below), this is because of rising cost, not urging demand. With some authorities sticking to Zero-COVID routine, disruption to business activities would inevitably continue to occur even though there are some other authorities trying to save the SME --- these contradictions did took place.</p>
+<figure data-type="image" tabindex="6"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657246984697.jpg" alt="" loading="lazy"></figure>
+<center>Source: Renmin University of China, DeepL</center>
+<p>I do believe that retail confidence is under recovery, but not for previous policies which, instead, hindered the economy, but for the growing expectation that China would not get worse and would lift some restrictive rules which previously harmed the business environment. And frankly speaking, the outlook of e-commerce is rather mournful considering the index fell below 50 (it might get worse if logistics and delivery service still get halted when new wave of COVID bursts). <strong>We, Chinese, are always optimistic towards the future while acting especially prudently in hard times</strong> — Cannot judge whether it is good or not, but that should be the correct reason.</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>“China Retail Prosperity Index Rebounds in July.” <em>News.Cn</em>, https://english.news.cn/20220706/7ad37f8ba14247758c9b2b9f00c42525/c.html. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>“中国商业联合会发布中国零售业景气指数CRPI.” <em>Ifeng.com</em>, https://finance.ifeng.com/c/8HR5W2kBEV9. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>Cramer-Flood, Ethan. “China Ecommerce Forecast 2021.” <em>Insider Intelligence</em>, 9 July 2021, https://www.emarketer.com/content/china-ecommerce-forecast-2021. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>Pinghui, Zhuang. “China to Stick with Zero-Covid Policy, but the Rules May Be ‘Refined’, Premier Says.” <em>South China Morning Post</em>, 5 Mar. 2022, https://www.scmp.com/news/china/politics/article/3169390/china-stick-zero-covid-policy-rules-may-be-refined-premier-says. <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>“于泽：理性看待6月份社会消费品零售总额高增速 -中国人民大学国家发展与战略研究院.” <em>Ruc.Edu.Cn</em>, http://nads.ruc.edu.cn/xzgd/1a8e671079854a2aa887cc969422948a.htm. <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>“China Announces Policies to Relieve Epidemic Pressures on Industries, Unemployed.” <em>Gov.Cn</em>, https://english.www.gov.cn/news/pressbriefings/202205/13/content_WS627dcad0c6d02e533532aa55.html. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#example-cpri-index">Example - CPRI Index</a>
+<ul>
+<li><a href="#question-regarding-the-index-itself">Question Regarding The Index Itself</a></li>
+<li><a href="#its-causation-seems-unsound">Its Causation Seems Unsound</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://ThisIsWhatIHaveStudied.github.io/post/ou-ran-yu-dao-yi-ge-sha-gua-shi-sou-suo-yin-qing-api/">
+              <h3 class="post-title">
+                偶然遇到一个傻瓜式搜索引擎 API
+              </h3>
+            </a>
+          </div>
+        
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'f5de09fa1765a26e64c6',
+    clientSecret: '5bde329d4dd264df8b09c5756a4e2b343d0ff0e1',
+    repo: 'ThisIsWhatIHaveStudied.github.io',
+    owner: 'ThisIsWhatIHaveStudied',
+    admin: ['ThisIsWhatIHaveStudied'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://ThisIsWhatIHaveStudied.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>

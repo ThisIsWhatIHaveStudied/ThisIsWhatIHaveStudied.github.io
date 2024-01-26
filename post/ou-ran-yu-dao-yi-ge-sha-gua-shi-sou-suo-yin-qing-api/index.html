@@ -1,0 +1,281 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>偶然遇到一个傻瓜式搜索引擎 API | This Is What I Have Studied</title>
+<link rel="shortcut icon" href="https://ThisIsWhatIHaveStudied.github.io/favicon.ico?v=1706241541779">
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="stylesheet" href="https://ThisIsWhatIHaveStudied.github.io/styles/main.css">
+<link rel="alternate" type="application/atom+xml" title="偶然遇到一个傻瓜式搜索引擎 API | This Is What I Have Studied - Atom Feed" href="https://ThisIsWhatIHaveStudied.github.io/atom.xml">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+
+
+    <meta name="description" content="莫名其妙
+事情的原委是这样的：严学姐的老板希望能获取全网所有含有某一关键词的文章，Then 这个人 turned to me for help。俺一来日久不敲代码已然技能十分生疏，二来不希望将时间浪费到重复的造轮子活动中三来在办公室敲代码太..." />
+    <meta name="keywords" content="Python" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  </head>
+  <body>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://ThisIsWhatIHaveStudied.github.io">
+  <img class="avatar" src="https://ThisIsWhatIHaveStudied.github.io/images/avatar.png?v=1706241541779" alt="">
+  </a>
+  <h1 class="site-title">
+    This Is What I Have Studied
+  </h1>
+  <p class="site-description">
+    Daily Study Routine
+  </p>
+  <div class="menu-container">
+    
+      
+        <a href="/" class="menu">
+          首页 Home
+        </a>
+      
+    
+      
+        <a href="/tag/XMlZlVdP5" class="menu">
+          Language Learning
+        </a>
+      
+    
+      
+        <a href="/archives" class="menu">
+          归档 Archive
+        </a>
+      
+    
+      
+        <a href="/tags" class="menu">
+          标签 Tags
+        </a>
+      
+    
+      
+        <a href="/post/about" class="menu">
+          关于本博客 About Me
+        </a>
+      
+    
+  </div>
+  <div class="social-container">
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  </div>
+</div>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              偶然遇到一个傻瓜式搜索引擎 API
+            </h2>
+            <div class="post-info">
+              <span>
+                2022-07-05
+              </span>
+              <span>
+                3 min read
+              </span>
+              
+                <a href="https://ThisIsWhatIHaveStudied.github.io/tag/XEa_uBlBL/" class="post-tag">
+                  # Python
+                </a>
+              
+            </div>
+            
+            <div class="post-content-wrapper">
+              <div class="post-content">
+                <h2 id="莫名其妙">莫名其妙</h2>
+<p>事情的原委是这样的：严学姐的老板希望能获取全网所有含有某一关键词的文章，Then 这个人 turned to me for help。俺一来日久不敲代码已然技能十分生疏，二来不希望将时间浪费到重复的造轮子活动中<s>三来在办公室敲代码太危险了</s>。机缘巧合间发现了一款免费搜索引擎 API: <a href="https://serpapi.com/">SerpApi</a>，也算是为我免除了不少体力活动。</p>
+<figure data-type="image" tabindex="1"><img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657002817838.jpg" alt="" loading="lazy"></figure>
+<center>来源：https://serpapi.com/</center>
+<h2 id="使用方法">使用方法</h2>
+<p>废话不多说，直接上例子。所需的 Package 如下：</p>
+<pre><code class="language-python"># Setup
+import requests # Just in case I wanna crawl each page
+import pandas as pd
+from bs4 import BeautifulSoup
+from serpapi import GoogleSearch # Key Package
+from serpapi import BaiduSearch
+</code></pre>
+<p>下载 serpapi 的方法是：在 Anaconda Console （或者 CMD）中键入：</p>
+<pre><code class="language-python">pip install google-search-results
+</code></pre>
+<p>在官网注册账号之后，可获得一个免费 API（每月100次）：</p>
+<pre><code class="language-python">api_key = &quot;ad9xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe1413&quot;
+</code></pre>
+<p>接下来只需设定好 Parameters：</p>
+<p><strong>Google</strong></p>
+<pre><code class="language-python"># Setup with google search
+params = {
+  &quot;engine&quot;: &quot;google&quot;,
+  &quot;q&quot;: &quot;青年律师如何寻找案源&quot;, # Keyword
+  &quot;num&quot;: 50,   
+  &quot;api_key&quot;: api_key
+}
+</code></pre>
+<p><strong>Baidu</strong></p>
+<pre><code class="language-python"># Baidu Search
+params = {
+  &quot;engine&quot;: &quot;baidu&quot;,
+  &quot;q&quot;: &quot;青年律师如何寻找案源&quot;, 
+  &quot;rn&quot;: 50,  # The only adjustment made is the name of &quot;num_of_page&quot;
+  &quot;api_key&quot;: api_key
+}
+</code></pre>
+<p>然后所需的便只是借助 API 发送 Get 请求，不需要自己设定 Headers 等：</p>
+<p><strong>Google</strong></p>
+<pre><code class="language-python">GSearch = GoogleSearch(params) # Search via api
+GResults = GSearch.get_dict() # Get raw results
+GOrganic_results = GResults[&quot;organic_results&quot;] # Prettify the structure
+</code></pre>
+<pre><code class="language-python">GoogleSeachResultsDic = {}
+for each in GOrganic_results:
+    title = each['title']
+    url = each['link']
+    GoogleSeachResultsDic[title] = url # Make it a dictionary
+</code></pre>
+<p><strong>Baidu</strong></p>
+<pre><code class="language-python">BSearch = BaiduSearch(params)
+BResults = BSearch.get_dict()
+BOrganic_results = BResults[&quot;organic_results&quot;]
+</code></pre>
+<pre><code class="language-python">BaiduSearchResultsDic = {}
+for each in BOrganic_results:
+    title = each['title']
+    url = each['link']
+    BaiduSearchResultsDic[title] = url
+</code></pre>
+<p>然后将结果整合到一个 Excel 中输出即可</p>
+<pre><code class="language-python">SearchResultsDic = GoogleSeachResultsDic | BaiduSearchResultsDic
+</code></pre>
+<pre><code class="language-python"># Export to an excel file
+ExportDF = pd.DataFrame(data=SearchResultsDic, index=[0])
+ExportDF = ExportDF.T
+ExportDF.to_excel('Title and Links.xlsx')
+</code></pre>
+<p>结果如下图所示<br>
+<img src="https://ThisIsWhatIHaveStudied.github.io/post-images/1657002845434.jpg" alt="" loading="lazy"></p>
+<p>以上只是一个简单的小例子，此外官网亦有许多范例可以参考~</p>
+
+              </div>
+              <div class="toc-container">
+                <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li><a href="#%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99">莫名其妙</a></li>
+<li><a href="#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95">使用方法</a></li>
+</ul>
+</li>
+</ul>
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://ThisIsWhatIHaveStudied.github.io/post/duo-guo-kai-qi-jia-xi-zhou-qi-de-qian-zai-ying-xiang/">
+              <h3 class="post-title">
+                多国开启加息周期的潜在影响
+              </h3>
+            </a>
+          </div>
+        
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'f5de09fa1765a26e64c6',
+    clientSecret: '5bde329d4dd264df8b09c5756a4e2b343d0ff0e1',
+    repo: 'ThisIsWhatIHaveStudied.github.io',
+    owner: 'ThisIsWhatIHaveStudied',
+    admin: ['ThisIsWhatIHaveStudied'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
+
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+  <a class="rss" href="https://ThisIsWhatIHaveStudied.github.io/atom.xml" target="_blank">
+    <i class="ri-rss-line"></i> RSS
+  </a>
+</div>
+
+      </div>
+    </div>
+
+    <script>
+      hljs.initHighlightingOnLoad()
+
+      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+
+      // This should probably be throttled.
+      // Especially because it triggers during smooth scrolling.
+      // https://lodash.com/docs/4.17.10#throttle
+      // You could do like...
+      // window.addEventListener("scroll", () => {
+      //    _.throttle(doThatStuff, 100);
+      // });
+      // Only not doing it here to keep this Pen dependency-free.
+
+      window.addEventListener("scroll", event => {
+        let fromTop = window.scrollY;
+
+        mainNavLinks.forEach((link, index) => {
+          let section = document.getElementById(decodeURI(link.hash).substring(1));
+          let nextSection = null
+          if (mainNavLinks[index + 1]) {
+            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
+          }
+          if (section.offsetTop <= fromTop) {
+            if (nextSection) {
+              if (nextSection.offsetTop > fromTop) {
+                link.classList.add("current");
+              } else {
+                link.classList.remove("current");    
+              }
+            } else {
+              link.classList.add("current");
+            }
+          } else {
+            link.classList.remove("current");
+          }
+        });
+      });
+
+    </script>
+  </body>
+</html>
